@@ -179,7 +179,7 @@ export function MatchResults({ quizResponses }: MatchResultsProps) {
             </div>
           </div>
           <h1 className="font-baron text-3xl font-bold text-foreground mb-2">
-            Your Top 5 <span className="girlboss-gradient">Career Creators</span>
+            Your Top 5 <span className="girlboss-gradient"> Tech and Career Creators</span>
           </h1>
           <p className="text-muted-foreground">
             Curated matches based on your quiz responses
