@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(__NEW_LINE__ find . -name \"*.tsx\" -exec sed -i '' )",
+      "Bash({} ;)",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "mcp__ide__executeCode",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
