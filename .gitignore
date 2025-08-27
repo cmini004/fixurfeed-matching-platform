@@ -87,3 +87,8 @@ public
 
 # Local Netlify folder
 .netlify
+# Sensitive creator data
+creators_final.json
+creators_updated.json
+src/data/creators.json
+data/private/creators.json
