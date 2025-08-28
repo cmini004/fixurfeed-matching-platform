@@ -1,10 +1,10 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Input } from "./ui/input";
 import { Button } from "./ui/button";
 import { Badge } from "./ui/badge";
 import { CreatorCard } from "./CreatorCard";
-import { Search, Filter } from "lucide-react";
+import { Search, Filter, Loader2 } from "lucide-react";
+import { creatorApi, type Creator } from "../services/creatorApi";
 import {
   Select,
   SelectContent,
@@ -13,102 +13,43 @@ import {
   SelectValue,
 } from "./ui/select";
 
-interface Creator {
-  id: string;
-  name: string;
-  role: string;
-  avatar: string;
-  tagline: string;
-  followers: number;
-  platform: string;
-  topics: string[];
-  style: string;
-}
-
 export function CreatorDatabase() {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedRole, setSelectedRole] = useState("");
   const [selectedTopic, setSelectedTopic] = useState("");
   const [selectedStyle, setSelectedStyle] = useState("");
+  const [creators, setCreators] = useState<Creator[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
-  // Mock creators data
-  const creators: Creator[] = [
-    {
-      id: '1',
-      name: 'Sarah Chen',
-      role: 'Engineer',
-      avatar: 'https://images.unsplash.com/photo-1602566356438-dd36d35e989c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMHdvbWFuJTIwdGVjaHxlbnwxfHx8fDE3NTYwODk4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080',
-      tagline: 'Building scalable systems at scale. Sharing practical engineering tips.',
-      followers: 85000,
-      platform: 'LinkedIn',
-      topics: ['Engineering', 'System Design'],
-      style: 'Professional'
-    },
-    {
-      id: '2',
-      name: 'Marcus Johnson',
-      role: 'Product Manager',
-      avatar: 'https://images.unsplash.com/photo-1680540692052-79fde1108370?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMG1hbiUyMGRldmVsb3BlcnxlbnwxfHx8fDE3NTYwODk4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080',
-      tagline: 'From zero to PM. Helping others break into product management.',
-      followers: 45000,
-      platform: 'YouTube',
-      topics: ['Product', 'Career'],
-      style: 'Educational'
-    },
-    {
-      id: '3',
-      name: 'Alex Rodriguez',
-      role: 'Designer',
-      avatar: 'https://images.unsplash.com/photo-1723537742563-15c3d351dbf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMG1hbiUyMGJ1c2luZXNzfGVufDF8fHx8MTc1NjA4OTgxNXww&ixlib=rb-4.1.0&q=80&w=1080',
-      tagline: 'Design thinking meets business strategy. Unhinged design hacks.',
-      followers: 32000,
-      platform: 'Instagram',
-      topics: ['Design', 'UX'],
-      style: 'Creative'
-    },
-    {
-      id: '4',
-      name: 'Emily Zhang',
-      role: 'Data Scientist',
-      avatar: 'https://images.unsplash.com/photo-1594736797933-d0e501ba2fe6?w=400',
-      tagline: 'Making data science accessible. Python tips and career advice.',
-      followers: 28000,
-      platform: 'LinkedIn',
-      topics: ['Data Science', 'Python'],
-      style: 'Educational'
-    },
-    {
-      id: '5',
-      name: 'David Kim',
-      role: 'Founder',
-      avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400',
-      tagline: 'Built 3 startups. Sharing lessons learned the hard way.',
-      followers: 67000,
-      platform: 'Twitter',
-      topics: ['Entrepreneurship', 'Startups'],
-      style: 'Inspiring'
-    },
-    {
-      id: '6',
-      name: 'Lisa Park',
-      role: 'Designer',
-      avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400',
-      tagline: 'From bootcamp to FAANG. UI/UX design career journey.',
-      followers: 24000,
-      platform: 'YouTube',
-      topics: ['Design', 'Career'],
-      style: 'Inspiring'
-    }
-  ];
+  // Load creators from API
+  useEffect(() => {
+    const loadCreators = async () => {
+      try {
+        setLoading(true);
+        setError(null);
+        const fetchedCreators = await creatorApi.getAllCreators();
+        setCreators(fetchedCreators);
+      } catch (err) {
+        console.error('Error loading creators:', err);
+        setError('Failed to load creators. Please try again.');
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadCreators();
+  }, []);
 
   const filteredCreators = creators.filter(creator => {
     const matchesSearch = creator.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
                          creator.role.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                         creator.tagline.toLowerCase().includes(searchQuery.toLowerCase());
+                         (creator.tagline && creator.tagline.toLowerCase().includes(searchQuery.toLowerCase())) ||
+                         (creator.knownFor && creator.knownFor.toLowerCase().includes(searchQuery.toLowerCase()));
     
     const matchesRole = !selectedRole || creator.role === selectedRole;
     const matchesTopic = !selectedTopic || creator.topics.includes(selectedTopic);
-    const matchesStyle = !selectedStyle || creator.style === selectedStyle;
+    const matchesStyle = !selectedStyle || creator.contentStyle?.includes(selectedStyle);
 
     return matchesSearch && matchesRole && matchesTopic && matchesStyle;
   });
@@ -119,6 +60,50 @@ export function CreatorDatabase() {
     setSelectedStyle("");
     setSearchQuery("");
   };
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <div className="text-center">
+          <div className="flex justify-center mb-4">
+            <Loader2 className="w-8 h-8 text-primary animate-spin" />
+          </div>
+          <h2 className="text-xl font-semibold text-gray-900 mb-2">
+            Loading Creator Database...
+          </h2>
+          <p className="text-gray-600">
+            Fetching the latest creator profiles
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <div className="text-center max-w-md">
+          <div className="flex justify-center mb-4">
+            <div className="bg-red-100 p-3 rounded-full">
+              <Search className="w-8 h-8 text-red-600" />
+            </div>
+          </div>
+          <h2 className="text-xl font-semibold text-gray-900 mb-2">
+            Failed to Load Creators
+          </h2>
+          <p className="text-gray-600 mb-4">
+            {error}
+          </p>
+          <Button 
+            onClick={() => window.location.reload()}
+            className="bg-primary text-white hover:bg-primary/90"
+          >
+            Try Again
+          </Button>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-white">

@@ -1,9 +1,10 @@
 
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Button } from "./ui/button";
 import { Badge } from "./ui/badge";
-import { Crown, MessageSquare, ExternalLink, Camera, Share2 } from "lucide-react";
+import { Crown, MessageSquare, ExternalLink, Camera, Share2, Loader2 } from "lucide-react";
 import { matchCreators } from "../utils/creatorMatcher";
+import { creatorApi } from "../services/creatorApi";
 import confetti from 'canvas-confetti';
 
 interface QuizResponse {
@@ -50,22 +51,44 @@ interface MatchResultsProps {
 }
 
 export function MatchResults({ quizResponses }: MatchResultsProps) {
-  // Get matched creators using our algorithm
-  const matchedCreators = matchCreators(quizResponses);
+  const [matchedCreators, setMatchedCreators] = useState<MatchedCreator[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
-  // Trigger confetti on component mount
+  // Load matched creators using our algorithm
   useEffect(() => {
-    const timer = setTimeout(() => {
-      confetti({
-        particleCount: 100,
-        spread: 70,
-        origin: { y: 0.6 },
-        colors: ['#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#ffeaa7']
-      });
-    }, 500);
+    const loadMatches = async () => {
+      try {
+        setLoading(true);
+        setError(null);
+        const creators = await matchCreators(quizResponses);
+        setMatchedCreators(creators);
+      } catch (err) {
+        console.error('Error loading creator matches:', err);
+        setError('Failed to load creator matches. Please try again.');
+      } finally {
+        setLoading(false);
+      }
+    };
 
-    return () => clearTimeout(timer);
-  }, []);
+    loadMatches();
+  }, [quizResponses]);
+
+  // Trigger confetti when creators are loaded
+  useEffect(() => {
+    if (matchedCreators.length > 0) {
+      const timer = setTimeout(() => {
+        confetti({
+          particleCount: 100,
+          spread: 70,
+          origin: { y: 0.6 },
+          colors: ['#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#ffeaa7']
+        });
+      }, 500);
+
+      return () => clearTimeout(timer);
+    }
+  }, [matchedCreators]);
 
   const getPlatformEmoji = (platform: string) => {
     switch (platform.toLowerCase()) {
@@ -168,6 +191,52 @@ export function MatchResults({ quizResponses }: MatchResultsProps) {
     console.log('Creator clicked:', creator.name);
   };
 
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="text-center">
+          <div className="flex justify-center mb-4">
+            <div className="bg-primary/20 p-3 rounded-full">
+              <Loader2 className="w-8 h-8 text-primary animate-spin" />
+            </div>
+          </div>
+          <h2 className="text-xl font-semibold text-foreground mb-2">
+            Finding Your Perfect Creators...
+          </h2>
+          <p className="text-muted-foreground">
+            Analyzing your preferences to match you with the best creators
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="text-center max-w-md">
+          <div className="flex justify-center mb-4">
+            <div className="bg-red-100 p-3 rounded-full">
+              <ExternalLink className="w-8 h-8 text-red-600" />
+            </div>
+          </div>
+          <h2 className="text-xl font-semibold text-foreground mb-2">
+            Oops! Something went wrong
+          </h2>
+          <p className="text-muted-foreground mb-4">
+            {error}
+          </p>
+          <Button 
+            onClick={() => window.location.reload()}
+            className="bg-primary text-white hover:bg-primary/90"
+          >
+            Try Again
+          </Button>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-background">
       <div className="max-w-4xl mx-auto px-4 py-8">
@@ -204,9 +273,9 @@ export function MatchResults({ quizResponses }: MatchResultsProps) {
                 <div className="flex items-start gap-4">
                   {/* Creator Avatar */}
                   <div className="w-16 h-16 rounded-full overflow-hidden bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center">
-                    {creator.avatar ? (
+                    {creator.avatar || creator.profilePhoto ? (
                       <img 
-                        src={creator.avatar} 
+                        src={creatorApi.getImageUrl(creator.avatar || creator.profilePhoto)} 
                         alt={creator.name}
                         className="w-full h-full object-cover"
                         onError={(e: React.SyntheticEvent<HTMLImageElement>) => {

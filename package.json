@@ -53,10 +53,19 @@
       },
       "devDependencies": {
             "@types/node": "^20.10.0",
+            "@types/react": "^18.3.1",
+            "@types/react-dom": "^18.3.1",
+            "typescript": "^5.0.2",
             "vite": "^5.4.19"
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build"
+            "build": "vite build",
+            "server": "cd server && npm run dev",
+            "server:build": "cd server && npm run build",
+            "server:start": "cd server && npm start",
+            "install:server": "cd server && npm install",
+            "dev:full": "concurrently \"npm run dev\" \"npm run server\"",
+            "build:all": "npm run build && npm run server:build"
       }
 }

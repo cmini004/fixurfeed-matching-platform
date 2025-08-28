@@ -58,7 +58,7 @@ export function QuizFlow({ onComplete, onBack }: QuizFlowProps) {
           key: 'gender',
           label: '',
           type: 'single' as const,
-          options: ['Man', 'Woman', 'Non-binary', 'Other']
+          options: ['Man', 'Woman', 'Other']
         }
       ]
     },

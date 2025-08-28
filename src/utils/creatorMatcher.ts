@@ -1,26 +1,5 @@
-import creatorsData from '/Users/coralminiel/Downloads/Fix UR Feed Creator Matching Platform V2/src/data/creators.json';
+import { creatorApi, type Creator } from '../services/creatorApi';
 
-interface Creator {
-  id: string;
-  name: string;
-  role: string;
-  avatar: string;
-  tagline: string;
-  followers: number;
-  platform: string;
-  topics: string[];
-  style: string;
-  profilePhoto: string;
-  gender: string;
-  ageGroup: string;
-  ethnicity: string;
-  careerStage: string;
-  hasRecruitingExperience: boolean;
-  contentStyle: string[];
-  knownFor: string;
-  subCategory: string[];
-  targetAudience: string[];
-}
 
 interface QuizResponse {
   gender: string;
@@ -37,8 +16,8 @@ interface MatchedCreator extends Creator {
   tags: string[];
 }
 
-export function matchCreators(userResponses: QuizResponse): MatchedCreator[] {
-  const creators = creatorsData as Creator[];
+export async function matchCreators(userResponses: QuizResponse): Promise<MatchedCreator[]> {
+  const creators = await creatorApi.getAllCreators();
   
   // Helper function to check if creator matches identity
   const matchesIdentity = (creator: Creator): boolean => {
@@ -46,7 +25,7 @@ export function matchCreators(userResponses: QuizResponse): MatchedCreator[] {
     
     // If gender was skipped, randomly assign one for "someone who looks like me" matching
     if (!userGender || userGender === '') {
-      const genders = ['Woman', 'Man', 'Non-binary'];
+      const genders = ['Woman', 'Man', 'Other'];
       userGender = genders[Math.floor(Math.random() * genders.length)];
     }
     
@@ -54,8 +33,7 @@ export function matchCreators(userResponses: QuizResponse): MatchedCreator[] {
     const genderMap: Record<string, string[]> = {
       'Woman': ['Female'],
       'Man': ['Male'],
-      'Non-binary': ['Non-binary', 'Nonbinary'],
-      'Other': ['Other', 'Transgender', 'Genderfluid']
+      'Other': ['Other', 'Transgender', 'Genderfluid', 'Non-binary', 'Nonbinary']
     };
     
     const matchingGenders = genderMap[userGender] || [];
