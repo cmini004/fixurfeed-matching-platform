@@ -131,7 +131,7 @@ app.get('/api/images/:filename', (req, res) => {
         if (filename.includes('..') || filename.includes('/') || filename.includes('\\')) {
             return res.status(400).json({ error: 'Invalid filename' });
         }
-        const imagePath = path_1.default.join(__dirname, '../src/data/profile_photos', filename);
+        const imagePath = path_1.default.join(__dirname, '../profile_photos', filename);
         // Check if file exists
         if (!fs_1.default.existsSync(imagePath)) {
             return res.status(404).json({ error: 'Image not found' });
