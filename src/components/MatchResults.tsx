@@ -440,51 +440,6 @@ export function MatchResults({ quizResponses }: MatchResultsProps) {
           </div>
         </div>
 
-        {/* Share with Creators Today */}
-        <div className="text-center mt-8 mb-8">
-          <div className="bg-gradient-to-br from-secondary/10 to-accent/10 rounded-2xl p-6 border border-secondary/20">
-            <h3 className="text-xl font-bold text-foreground mb-2">
-              ✨ Share Your Results with the Creators!
-            </h3>
-            <p className="text-muted-foreground mb-4">
-              Today I'm sharing FixUrFeed with all the creators in our database.
-            </p>
-            <div className="bg-card rounded-lg p-4 border border-border mb-4">
-              <p className="text-lg font-semibold text-primary mb-2">
-                #FixUrFeedResults #CreatorImpact
-              </p>
-              <p className="text-sm text-muted-foreground">
-                Perfect for sharing your matched creators on LinkedIn!
-              </p>
-            </div>
-            <Button 
-              onClick={() => {
-                navigator.clipboard.writeText('#FixUrFeedResults #CreatorImpact');
-                confetti({
-                  particleCount: 50,
-                  spread: 60,
-                  origin: { y: 0.7 },
-                  colors: ['#ff6b6b', '#4ecdc4', '#45b7d1']
-                });
-              }}
-              variant="outline"
-              className="border-secondary text-secondary hover:bg-secondary hover:text-white"
-            >
-              <Share2 className="w-4 h-4 mr-2" />
-              Copy Creator Tags
-            </Button>
-            <p className="text-xs text-muted-foreground mt-3">
-              <a 
-                href="https://www.linkedin.com/in/coralminiel/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-primary font-semibold underline hover:text-primary/80"
-              >
-                Follow my journey →
-              </a> as I drop the full case analysis on Monday!
-            </p>
-          </div>
-        </div>
 
         {/* Feedback CTA */}
         <div className="text-center mt-8">
