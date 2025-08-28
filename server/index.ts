@@ -55,8 +55,28 @@ function loadCreators(): Creator[] {
   }
 
   try {
-    const creatorsPath = path.join(__dirname, '../src/data/creators.json');
-    const creatorsData = JSON.parse(fs.readFileSync(creatorsPath, 'utf8'));
+    // Try different paths for development vs production
+    const possiblePaths = [
+      path.join(__dirname, '../../src/data/creators.json'),  // Production build
+      path.join(__dirname, '../src/data/creators.json'),     // Development
+      path.join(process.cwd(), 'src/data/creators.json'),    // Root relative
+    ];
+    
+    let creatorsData;
+    for (const creatorsPath of possiblePaths) {
+      try {
+        creatorsData = JSON.parse(fs.readFileSync(creatorsPath, 'utf8'));
+        console.log(`Loaded creators from: ${creatorsPath}`);
+        break;
+      } catch (err) {
+        console.log(`Failed to load from: ${creatorsPath}`);
+        continue;
+      }
+    }
+    
+    if (!creatorsData) {
+      throw new Error('Could not find creators.json file');
+    }
     
     const sanitizedCreators = creatorsData
       .filter((creator: any) => creator.id && creator.name)
