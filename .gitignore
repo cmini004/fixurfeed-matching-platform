@@ -92,3 +92,16 @@ creators_final.json
 creators_updated.json
 src/data/creators.json
 data/private/creators.json
+
+# Raw data files
+*.xlsx
+*.csv
+src/data/profile_photos/
+public/profile_photos/
+public/photos/
+photo_mapping.json
+creators.json.bak
+
+# Keep server data secure (already protected by server architecture)
+# server/creators.json - this stays for the API
+# server/profile_photos/ - this stays for image serving
