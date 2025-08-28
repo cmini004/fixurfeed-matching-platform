@@ -11,7 +11,7 @@ const app = (0, express_1.default)();
 const PORT = process.env.PORT || 3001;
 app.use((0, cors_1.default)({
     origin: process.env.NODE_ENV === 'production'
-        ? ['https://your-domain.com']
+        ? ['https://fixurfeed-matching-platformv3.vercel.app']
         : ['http://localhost:3000', 'http://localhost:5173', 'http://localhost:3002'],
     credentials: true,
     optionsSuccessStatus: 200
