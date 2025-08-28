@@ -447,7 +447,7 @@ export function MatchResults({ quizResponses }: MatchResultsProps) {
               ✨ Share Your Results with the Creators!
             </h3>
             <p className="text-muted-foreground mb-4">
-              Today I'm sharing FixUrFeed with all the creators in our database. Tag them in your results and help them see the impact they're making on students like you!
+              Today I'm sharing FixUrFeed with all the creators in our database.
             </p>
             <div className="bg-card rounded-lg p-4 border border-border mb-4">
               <p className="text-lg font-semibold text-primary mb-2">

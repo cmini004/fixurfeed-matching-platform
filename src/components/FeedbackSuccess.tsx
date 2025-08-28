@@ -28,11 +28,10 @@ export function FeedbackSuccess({ onOpenDatabase }: FeedbackSuccessProps) {
             {/* Success Message */}
             <div className="space-y-3">
               <h1 className="text-2xl font-bold text-gray-900">
-                Thanks! Database unlocked.
+                Thanks!
               </h1>
               <p className="text-gray-600">
-                Your feedback helps us make better matches for future students. 
-                You now have access to our full creator database.
+                Your feedback helps us make better matches for future students.
               </p>
             </div>
 
