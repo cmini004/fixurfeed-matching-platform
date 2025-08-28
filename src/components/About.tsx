@@ -1,6 +1,7 @@
 import { Button } from "./ui/button";
 import { Card } from "./ui/card";
 import { ArrowRight, Users, TrendingUp, Database, Target, Heart, Lightbulb, Calendar, Crown, BarChart3, MessageSquareQuote } from "lucide-react";
+import { creatorApi } from "../services/creatorApi";
 import React from "react";
 
 interface AboutProps {
@@ -22,7 +23,7 @@ export function About({ onTakeQuiz }: AboutProps) {
           </p>
           <div className="flex justify-center mb-6">
             <img
-              src="https://fixurfeed-matching-platform-production.up.railway.app/api/images/Coral_Miniel.jpeg"
+              src={creatorApi.getImageUrl("/api/images/Coral_Miniel.jpeg")}
               alt="Coral Miniel headshot"
               width="160"
               height="160"
