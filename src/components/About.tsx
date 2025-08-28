@@ -77,7 +77,7 @@ export function About({ onTakeQuiz }: AboutProps) {
                   <MessageSquareQuote className="w-5 h-5 text-primary" />
                 </div>
                 <p className="text-muted-foreground">
-                  I interviewed <strong className="text-foreground">7 students</strong>, surveyed <strong className="text-foreground">64 more</strong>, and spent <strong className="text-foreground">4 days</strong> .
+                  I interviewed <strong className="text-foreground">7 students</strong>, surveyed <strong className="text-foreground">64 more</strong>.
                 </p>
               </div>
               <p className="text-card-foreground font-medium">
@@ -231,7 +231,7 @@ export function About({ onTakeQuiz }: AboutProps) {
             
             <div className="prose text-muted-foreground space-y-4">
               <p>
-                FixUrFeed is my student-led attempt at showing what's possible: a 1-minute quiz that matches you with 5 creators tailored to your goals and learning style. Once you give feedback, you unlock the full database.
+                FixUrFeed is my student-led attempt at showing what's possible: a 1-minute quiz that matches you with 5 creators tailored to your goals and learning style. 
               </p>
               
               <p>
@@ -258,7 +258,9 @@ export function About({ onTakeQuiz }: AboutProps) {
               
               <p className="font-semibold text-primary">
                 On <strong>Monday</strong>, I'll be dropping the <strong>full case analysis</strong>. 
+                
                 If you care about fixing career discovery, or if you just want a better feed, follow along. 
+                
                 Let's make LinkedIn more valuable for the next generation of ambitious students.
               </p>
               <a
@@ -279,7 +281,7 @@ export function About({ onTakeQuiz }: AboutProps) {
             Ready to try the experiment?
           </h2>
           <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-            Take the 1-minute quiz and see if we can match you with creators who actually help your career
+            Take the 1-minute quiz and see if we can match you with creators who actually help your tech career.
           </p>
           <Button 
             onClick={onTakeQuiz}
