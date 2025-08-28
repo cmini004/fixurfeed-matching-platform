@@ -57,9 +57,10 @@ function loadCreators(): Creator[] {
   try {
     // Try different paths for development vs production
     const possiblePaths = [
-      path.join(__dirname, '../../src/data/creators.json'),  // Production build
-      path.join(__dirname, '../src/data/creators.json'),     // Development
-      path.join(process.cwd(), 'src/data/creators.json'),    // Root relative
+      path.join(__dirname, 'creators.json'),                 // Server directory
+      path.join(__dirname, '../creators.json'),              // Server build directory
+      path.join(__dirname, '../../src/data/creators.json'),  // Development fallback
+      path.join(process.cwd(), 'src/data/creators.json'),    // Root relative fallback
     ];
     
     let creatorsData;

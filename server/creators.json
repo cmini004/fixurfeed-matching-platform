@@ -1,0 +1,6543 @@
+[
+{
+  "scripts": {
+    "server": "ts-node server/index.ts"
+
+  }
+  
+},
+  {
+    "id": "1",
+    "name": "Jenny wood",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Jenny_Wood.jpeg",
+    "tagline": "Leadership coach focusing on self-advocacy and workplace tips—her unapologetic voice resonates with professionals seeking assertive growth.",
+    "followers": 98971,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jenny_Wood.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "White",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Leadership coach focusing on self-advocacy and workplace tips—her unapologetic voice resonates with professionals seeking assertive growth.",
+    "subCategory": [
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Executives",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 96220,
+      "Instagram": 2751,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/jennyilles/",
+    "instagramUrl": "https://www.instagram.com/itsjennywood/",
+    "tiktokUrl": "",
+    "website": "https://itsjennywood.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "2",
+    "name": "Zuri Godfrey",
+    "role": "The village mentorship for aspiring marketers",
+    "avatar": "/src/data/profile_photos/Zuri_Godfrey.jpeg",
+    "tagline": "The village mentorship for aspiring marketers",
+    "followers": 46830,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Zuri_Godfrey.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "Black",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "The village mentorship for aspiring marketers",
+    "subCategory": [
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 40023,
+      "Instagram": 6751,
+      "TikTok": 251
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/zurigodfrey/",
+    "instagramUrl": "https://www.instagram.com/zurigodfrey/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@zuri_godfrey",
+    "website": "https://topmate.io/zurigodfrey",
+    "hiddenGem": false
+  },
+  {
+    "id": "3",
+    "name": "Sudo Marith",
+    "role": "UW alum, and content creator. empowering college students to land tech careers through his up to date job postings on his stories. Insider tech info. big presence on TikTok and Instagram",
+    "avatar": "/src/data/profile_photos/Sudo_Marith.jpeg",
+    "tagline": "UW alum, and content creator. empowering college students to land tech careers through his up to date job postings on his stories. Insider tech info. big presence on TikTok and Instagram",
+    "followers": 182600,
+    "platform": "TikTok",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, productivity",
+      "early stage startup",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Sudo_Marith.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Humor"
+    ],
+    "knownFor": "UW alum, and content creator. empowering college students to land tech careers through his up to date job postings on his stories. Insider tech info. big presence on TikTok and Instagram",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 0,
+      "Instagram": 63100,
+      "TikTok": 119500
+    },
+    "linkedinUrl": "not found",
+    "instagramUrl": "https://www.instagram.com/zero2sudo/",
+    "tiktokUrl": "https://www.tiktok.com/@zero2sudo",
+    "website": "",
+    "hiddenGem": true
+  },
+  {
+    "id": "4",
+    "name": "Vivian Tu",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Vivian_Tu.jpeg",
+    "tagline": "Your rich bff tips that wall street gatekeeps, financial well being on tiktok",
+    "followers": 3136222,
+    "platform": "TikTok",
+    "topics": [
+      "Corporate Finance / Accounting",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Vivian_Tu.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "Asian",
+    "careerStage": "Executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Your rich bff tips that wall street gatekeeps, financial well being on tiktok",
+    "subCategory": [
+      "Corporate Finance / Accounting",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+
+      "thought leadership",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 66222,
+      "Instagram": 370000,
+      "TikTok": 2700000
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/viviantu-yourrichbff/",
+    "instagramUrl": "https://www.instagram.com/your.richbff/",
+    "tiktokUrl": "https://www.tiktok.com/@yourrichbff?lang=en",
+    "website": "https://linktr.ee/yourRichBFF",
+    "hiddenGem": false
+  },
+  {
+    "id": "5",
+    "name": "Ume Habiba",
+    "role": "Kode with Klossy, Speaking at TED",
+    "avatar": "/src/data/profile_photos/Ume_Habiba.jpeg",
+    "tagline": "Kode with Klossy, Speaking at TED",
+    "followers": 114011,
+    "platform": "Instagram",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Fashion tech",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Ume_Habiba.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Kode with Klossy, Speaking at TED , helping women with their careers",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Fashion tech",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 23290,
+      "Instagram": 85900,
+      "TikTok": 4821
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/umehabiba/",
+    "instagramUrl": "https://www.instagram.com/umxe/",
+    "tiktokUrl": "https://www.tiktok.com/@umxe",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "6",
+    "name": "Taylor Falls",
+    "role": "Career resources",
+    "avatar": "/src/data/profile_photos/Taylor_Falls.jpeg",
+    "tagline": "Career resources",
+    "followers": 50736,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Taylor_Falls.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Career resources for undergrad students, Your corporate Big Sis , BIPOC Advocate",
+    "subCategory": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 49642,
+      "Instagram": 0,
+      "TikTok": 1094
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/taylor-falls-/",
+    "instagramUrl": "",
+    "tiktokUrl": "https://www.tiktok.com/@tipswithtaylorf",
+    "website": "https://linktr.ee/tipswithtaylor",
+    "hiddenGem": false
+  },
+  {
+    "id": "7",
+    "name": "Tiffany Janzen",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Tiffany_Janzen.jpeg",
+    "tagline": "Tech news and interviewer . Up to date Ai and practical tech tips. Interviewd big tech ceos like mark , jenhszen huang and more..",
+    "followers": 996447,
+    "platform": "Instagram",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "UI/UX",
+      "Tech Leadership",
+      "Cybersecurity",
+      "Film and video production",
+      "Podcast"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Tiffany_Janzen.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "White",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips"
+    ],
+    "knownFor": "Tech news and interviewer . Up to date Ai and practical tech tips. Interviewd big tech ceos like mark , jenhszen huang and more..",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "UI/UX",
+      "Tech Leadership",
+      "Cybersecurity",
+      "Film and video production",
+      "Podcast"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 38947,
+      "Instagram": 661000,
+      "TikTok": 296500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/tiffany-janzen/",
+    "instagramUrl": "https://www.instagram.com/tiffintech/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@tiffintech?lang=en",
+    "website": "https://www.tiffintech.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "8",
+    "name": "Tiffany Yan",
+    "role": "internship recruiting funny takes , self proclaimed Linkedin warrior, documenting tech journey, Fashion,",
+    "avatar": "/src/data/profile_photos/Tiffany_Yan.jpeg",
+    "tagline": "internship recruiting funny takes , self proclaimed Linkedin warrior, documenting tech journey, Fashion,",
+    "followers": 7882,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup",
+      "Fashion tech",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Tiffany_Yan.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "internship recruiting funny takes , self proclaimed Linkedin warrior, documenting tech journey in 20's, Fashion,",
+    "subCategory": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup",
+      "Fashion tech",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5547,
+      "Instagram": 2187,
+      "TikTok": 148
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/tiffanyyan3/",
+    "instagramUrl": "https://www.instagram.com/tiffanyyan.mov/",
+    "tiktokUrl": "https://www.tiktok.com/@tiffanyyan.mov",
+    "website": "https://linktr.ee/tiffanyyan",
+    "hiddenGem": true
+  },
+  {
+    "id": "9",
+    "name": "Jade Walters",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Jade_Walters.jpeg",
+    "tagline": " Career resources , founder of the ninth semester ",
+    "followers": 244779,
+    "platform": "LinkedIn",
+    "topics": [
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jade_Walters.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": " founder of the ninth semester, job postings and tactical tips for students",
+    "subCategory": [
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 160360,
+      "Instagram": 8719,
+      "TikTok": 75700
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/jadekwalters/",
+    "instagramUrl": "https://www.instagram.com/theninthsemester/",
+    "tiktokUrl": "https://www.tiktok.com/@theninthsemester",
+    "website": "https://msha.ke/theninthsemester/",
+    "hiddenGem": false
+  },
+  {
+    "id": "10",
+    "name": "Natalie Neptune",
+    "role": "The group chat queen, In person experiences for genz founders and creators",
+    "avatar": "/src/data/profile_photos/Natalie_Neptune.jpeg",
+    "tagline": "The group chat queen, In person experiences for genz founders and creators",
+    "followers": 15581,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Natalie_Neptune.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "The group chat queen, In person experiences for genz founders and creators",
+    "subCategory": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 13362,
+      "Instagram": 2180,
+      "TikTok": 39
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/natalieneptune/",
+    "instagramUrl": "https://www.instagram.com/thenatalieneptune/",
+    "tiktokUrl": "https://www.tiktok.com/@thegroupchatqueen",
+    "website": "https://thegroupchatqueen.com/",
+    "hiddenGem": false
+  },
+  {
+    "id": "11",
+    "name": "Giovanna Gonzalez",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Giovanna_Gonzalez.jpeg",
+    "tagline": "First gen money hacks on tick-tock,recruiting",
+    "followers": 236359,
+    "platform": "TikTok",
+    "topics": [
+      "Corporate Finance / Accounting",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Giovanna_Gonzalez.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "First gen money hacks on tick-tock,recruiting hacks and money wellness",
+    "subCategory": [
+      "Corporate Finance / Accounting",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 12659,
+      "Instagram": 34400,
+      "TikTok": 189300
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/giovannagonzalez/",
+    "instagramUrl": "https://www.instagram.com/gigithefirstgenmentor/",
+    "tiktokUrl": "https://www.tiktok.com/@thefirstgenmentor?lang=en",
+    "website": "https://www.thefirstgenmentor.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "12",
+    "name": "Nyaradzo Bere",
+    "role": "Content Creator",
+    "avatar": "/src/data/profile_photos/Nyaradzo_Bere.jpeg",
+    "tagline": "Advice and opportunities for black individuals in tech",
+    "followers": 219978,
+    "platform": "TikTok",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Nyaradzo_Bere.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Advice and opportunities for black individuals in tech",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 10078,
+      "Instagram": 91300,
+      "TikTok": 118600
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/theblackfemaleengineer/",
+    "instagramUrl": "https://www.instagram.com/theblackfemaleengineer/",
+    "tiktokUrl": "https://www.tiktok.com/@theblackfemaleengineer",
+    "website": "https://beacons.ai/theblackfemaleengineer?fbclid=PAZXh0bgNhZW0CMTEAAadBd689SxLhMB_QcVkoZ-qwOS8TYK9ORonuvFvuNZGLqSb4la5odO2CQp7yZQ_aem_0LA6UkLBTbOkSevhzitXqw",
+    "hiddenGem": false
+  },
+  {
+    "id": "13",
+    "name": "Kanika Mohan",
+    "role": "",
+    "avatar": "/src/data/profile_photos/Kanika_Mohan.jpeg",
+    "tagline": "",
+    "followers": 28909,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Kanika_Mohan.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "taco bell scholar, career tips for immigrants/first gen, posting job links",
+    "subCategory": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 21572,
+      "Instagram": 2762,
+      "TikTok": 4575
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/kanikamohan7/",
+    "instagramUrl": "https://www.instagram.com/tech.pookie/",
+    "tiktokUrl": "https://www.tiktok.com/@tech.pookie",
+    "website": "https://topmate.io/kanikamohan/1461742",
+    "hiddenGem": false
+  },
+  {
+    "id": "14",
+    "name": "Stephanie Nuesi",
+    "role": "",
+    "avatar": "/src/data/profile_photos/Stephanie_Nuesi.jpeg",
+    "tagline": "First Gen inspirational story, Immigrant to google story , dominican born , founder of Max up",
+    "followers": 410697,
+    "platform": "LinkedIn",
+    "topics": [
+      "Corporate Finance / Accounting",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Stephanie_Nuesi.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Black, Hispanic/ Latino",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "First Gen inspirational story, Immigrant to google story , Dominican born , Founder of Max up",
+    "subCategory": [
+      "Corporate Finance / Accounting",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 350259,
+      "Instagram": 59500,
+      "TikTok": 2938
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/stephanienuesi/",
+    "instagramUrl": "https://www.instagram.com/stephanienuesi/",
+    "tiktokUrl": "https://www.tiktok.com/@stephanienuesi",
+    "website": "https://calendly.com/stephanienuesi",
+    "hiddenGem": false
+  },
+  {
+    "id": "15",
+    "name": "Sophia Kianni",
+    "role": "",
+    "avatar": "/src/data/profile_photos/Sophia_Kianni.jpeg",
+    "tagline": "",
+    "followers": 312364,
+    "platform": "Instagram",
+    "topics": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Fashion tech",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Sophia_Kianni.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Climate advocacy work, founding Phia fashion tech startup, Unhinged founder hacks and brand visibility",
+    "subCategory": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Fashion tech",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Founders",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 148459,
+      "Instagram": 161000,
+      "TikTok": 2905
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/sophiakianni/",
+    "instagramUrl": "https://www.instagram.com/sophiakianni/",
+    "tiktokUrl": "https://www.tiktok.com/@sophiakianni",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "16",
+    "name": "Sharon Gillenwater",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Sharon_Gillenwater.jpeg",
+    "tagline": "built a 25 million company without being a villain, Saas startup adviser,",
+    "followers": 76099,
+    "platform": "TikTok",
+    "topics": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Sharon_Gillenwater.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "White",
+    "careerStage": "Executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "built a 25 million company , Saas startup adviser,",
+    "subCategory": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "Executives",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 7253,
+      "Instagram": 1346,
+      "TikTok": 67500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/sharonkgillenwater/",
+    "instagramUrl": "https://www.instagram.com/sharonkgillenwater/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@sharonkgillenwater",
+    "website": "https://www.sharonkgillenwater.com",
+    "hiddenGem": true
+  },
+  {
+    "id": "17",
+    "name": "Dr. Shade Zahrai",
+    "role": "Psychologist specializing in leadership and professional development—she’s known for delivering practical, psychology-backed tips for leaders and workplace success.",
+    "avatar": "/src/data/profile_photos/Dr.Shade_Zahrai.jpeg",
+    "tagline": "Psychologist specializing in leadership and professional development—she’s known for delivering practical, psychology-backed tips for leaders and workplace success.",
+    "followers": 3748924,
+    "platform": "TikTok",
+    "topics": [
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Dr.Shade_Zahrai.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "Asian",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Psychologist specializing in leadership and professional development—she’s known for delivering practical, psychology-backed tips for leaders and workplace success.",
+    "subCategory": [
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 548924,
+      "Instagram": 1500000,
+      "TikTok": 1700000
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/shadezahrai",
+    "instagramUrl": "https://www.instagram.com/shadezahrai/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@shadezahrai?lang=en",
+    "website": "https://www.shadezahrai.com/newsletter",
+    "hiddenGem": false
+  },
+  {
+    "id": "18",
+    "name": "Nathaneo Johnson",
+    "role": "Co founder",
+    "avatar": "/src/data/profile_photos/Nathaneo_Johnson.jpeg",
+    "tagline": "Founding series as a Yale student, fast vc raise",
+    "followers": 39204,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "UI/UX",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Podcast",
+      "early stage startup"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Nathaneo_Johnson.jpeg",
+    "gender": "Male",
+    "ageGroup": "18-21",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Founding series as a Yale student, social networking startup fast vc raise",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "UI/UX",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Podcast",
+      "early stage startup"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Founders",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 30083,
+      "Instagram": 8607,
+      "TikTok": 514
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/nathaneo-johnson-86aa4a253",
+    "instagramUrl": "https://www.instagram.com/nathaneo_j/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@series.so",
+    "website": "https://www.series.so/",
+    "hiddenGem": false
+  },
+  {
+    "id": "19",
+    "name": "Sajjaad Khader",
+    "role": "low gpa to high paid engineer , masters at 20",
+    "avatar": "/src/data/profile_photos/Sajjaad_Khader.jpeg",
+    "tagline": "low gpa to high paid engineer , masters at 20",
+    "followers": 782072,
+    "platform": "Instagram",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Sajjaad_Khader.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "low gpa to high paid engineer , masters at 20 at georgia tech , salary transparent",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 65072,
+      "Instagram": 503000,
+      "TikTok": 214000
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/sajjaad-khader/",
+    "instagramUrl": "https://www.instagram.com/sajjaad.khader/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@sajjaadkhader?lang=en",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "20",
+    "name": "Sophia Sun",
+    "role": " ,",
+    "avatar": "/src/data/profile_photos/Sophia_Sun.jpeg",
+    "tagline": "",
+    "followers": 50771,
+    "platform": "TikTok",
+    "topics": [
+      "Product Management",
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Sophia_Sun.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Tactical tips to break into and grow a career in product management in big tech , up to date opportunities shared on tiktok and instagram  product playbook",
+    "subCategory": [
+      "Product Management",
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5071,
+      "Instagram": 21700,
+      "TikTok": 24000
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/sophiasysun/",
+    "instagramUrl": "https://www.instagram.com/productplaybook_/",
+    "tiktokUrl": "https://www.tiktok.com/@productplaybook",
+    "website": "https://sophiasun.substack.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "21",
+    "name": "Micheal Yitayew",
+    "role": "Getting rejected from google , turned around and succeced second time. product manager podcast ",
+    "avatar": "/src/data/profile_photos/Micheal_Yitayew.jpeg",
+    "tagline": "Getting rejected from google , turned around and succeced second time. product manager podcast ",
+    "followers": 37677,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Micheal_Yitayew.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Getting rejected from google , turned around and succeced second time. product manager podcast",
+    "subCategory": [
+      "Product Management",
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 28108,
+      "Instagram": 4142,
+      "TikTok": 5427
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/michaelyit/",
+    "instagramUrl": "https://www.instagram.com/productmanagermike/",
+    "tiktokUrl": "https://www.tiktok.com/@productmanagermike",
+    "website": "https://topmate.io/michael_yitayew",
+    "hiddenGem": false
+  },
+  {
+    "id": "22",
+    "name": "Ale Thomas",
+    "role": "Creator behind Pika Codes and advocate for Latinas in tech—spotlighting coding journeys and underrepresented voices in technology.",
+    "avatar": "/src/data/profile_photos/Ale_Thomas.jpeg",
+    "tagline": "Creator behind Pika Codes and advocate for Latinas in tech—spotlighting coding journeys and underrepresented voices in technology.",
+    "followers": 488944,
+    "platform": "Instagram",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Film and video production",
+      "Podcast",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Ale_Thomas.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Storytelling"
+    ],
+    "knownFor": "Creator behind Pika Codes and advocate for Latinas in tech—spotlighting coding journeys and underrepresented voices in technology.",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Film and video production",
+      "Podcast",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5844,
+      "Instagram": 295000,
+      "TikTok": 188100
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/alethomas/?locale=en_US",
+    "instagramUrl": "https://www.instagram.com/pikacodes/",
+    "tiktokUrl": "https://www.tiktok.com/@pikacodes?lang=en",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "23",
+    "name": "Jean Kang",
+    "role": "career coaching, Program management course",
+    "avatar": "/src/data/profile_photos/Jean_Kang.jpeg",
+    "tagline": "career coaching, Program management course",
+    "followers": 328970,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jean_Kang.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "career coaching, Program management course",
+    "subCategory": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Executives",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 243321,
+      "Instagram": 85600,
+      "TikTok": 49
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/jeanhkang/",
+    "instagramUrl": "https://www.instagram.com/jeanhkang/",
+    "tiktokUrl": "https://www.tiktok.com/@pathtopm",
+    "website": "https://pm-accelerator.com/",
+    "hiddenGem": false
+  },
+  {
+    "id": "24",
+    "name": "Aidan Ouckama",
+    "role": "Live leetcoding on tiktok , Tech Humor content",
+    "avatar": "/src/data/profile_photos/Aidan_Ouckama.jpeg",
+    "tagline": "Live leetcoding on tiktok , Tech Humor content",
+    "followers": 35780,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Aidan_Ouckama.jpeg",
+    "gender": "Male",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Humor"
+    ],
+    "knownFor": "Live leetcoding on tiktok , Tech Humor content",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding"
+    ],
+    "targetAudience": [
+      "College students",
+      "Underepresented individuals"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 21480,
+      "Instagram": 14300,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/aidan-ouckama/",
+    "instagramUrl": "https://www.instagram.com/ouckahcs/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@ouckah",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "25",
+    "name": "Riley Rojas",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Riley_Rojas.jpeg",
+    "tagline": "Career transition from poli sci to meta PM , Unhinged career hacks",
+    "followers": 123925,
+    "platform": "TikTok",
+    "topics": [
+      "Product Management",
+      "Founders, startup advice",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Fashion tech",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Riley_Rojas.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "career transition from poli sci to meta PM , unhinged career hacks",
+    "subCategory": [
+      "Product Management",
+      "Founders, startup advice",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Fashion tech",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 8625,
+      "Instagram": 26500,
+      "TikTok": 88800
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/rileyrojas/",
+    "instagramUrl": "https://www.instagram.com/rileyyrojass/",
+    "tiktokUrl": "https://www.tiktok.com/@omgitsrileyr",
+    "website": "https://hoo.be/rileyyrojass?fbclid=PAZXh0bgNhZW0CMTEAAafjm6ToV7m3M6-F7IubAZuIJMHQ44l0By4IDxJY-jhx4HTZIHE_T21uvNlqFQ_aem_NjlxJBukFEw0cjhjt8eMDQ",
+    "hiddenGem": true
+  },
+  {
+    "id": "26",
+    "name": "Nicole Casperson",
+    "role": "empowering women , fintech is femme , podcast , first person pov of running a media company",
+    "avatar": "/src/data/profile_photos/Nicole_Casperson.jpeg",
+    "tagline": "empowering women , fintech is femme , podcast , first person pov of running a media company",
+    "followers": 20020,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Nicole_Casperson.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "White, Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "empowering women , fintech is femme , podcast , first person pov of running a media company",
+    "subCategory": [
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Executives",
+      "Founders",
+      "Women",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 15766,
+      "Instagram": 2859,
+      "TikTok": 1395
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/nicole-casperson-0820a5133/",
+    "instagramUrl": "https://www.instagram.com/nicolecasperson/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@nicolecasperson",
+    "website": "https://www.fintechisfemme.co/",
+    "hiddenGem": false
+  },
+  {
+    "id": "27",
+    "name": "Navdeep Singh",
+    "role": "Youtube channel leetcode tutorials and tech interview prep",
+    "avatar": "/src/data/profile_photos/Navdeep_Singh.jpeg",
+    "tagline": "Youtube channel leetcode tutorials and tech interview prep",
+    "followers": 260153,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Founders, startup advice",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Navdeep_Singh.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Humor"
+    ],
+    "knownFor": "Youtube channel leetcode tutorials and tech interview prep, Neetcode Founder",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Founders, startup advice",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 177951,
+      "Instagram": 81400,
+      "TikTok": 802
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/navdeep-singh-3aaa14161/",
+    "instagramUrl": "https://www.instagram.com/neetcodeio/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@neetcode.io",
+    "website": "https://neetcode.io/",
+    "hiddenGem": false
+  },
+  {
+    "id": "28",
+    "name": "Mori Liu",
+    "role": "AI product manager",
+    "avatar": "/src/data/profile_photos/default.jpeg",
+    "tagline": "Aesthetic tiktok, Study motivation and fashion sense. Studying both Philosophy and CS, startup product manager, serial hackathoner, AI product manager",
+    "followers": 67433,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "early stage startup",
+      "Fashion tech"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/default.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Aesthetic tiktok, Study motivation and fashion sense. Studying both Philosophy and CS, startup product manager, serial hackathoner, AI product manager",
+    "subCategory": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "early stage startup",
+      "Fashion tech"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Founders",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 4633,
+      "Instagram": 39100,
+      "TikTok": 23700
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/mori-liu-keyao/",
+    "instagramUrl": "https://www.instagram.com/morilliu/",
+    "tiktokUrl": "https://www.tiktok.com/@morilliu",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "29",
+    "name": "Morgan Hoong",
+    "role": "Revealing truth about Bay Area life , Funny and relatatble pov of being a cs and having many aspirations, \"i dont know what i want to do in my 20's \" Funny takes",
+    "avatar": "/src/data/profile_photos/Morgan_Hoong.jpeg",
+    "tagline": "Revealing truth about Bay Area life , Funny and relatatble pov of being a cs and having many aspirations, \"i dont know what i want to do in my 20's \" Funny takes",
+    "followers": 28724,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Film and video production",
+      "thought leadership",
+      "early stage startup",
+      "Mental health"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Morgan_Hoong.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Revealing truth about Bay Area life , Funny and relatatble pov of being a cs and having many aspirations, \"i dont know what i want to do in my 20's \" Funny takes, relatable girl",
+    "subCategory": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Film and video production",
+      "thought leadership",
+      "early stage startup",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 1301,
+      "Instagram": 18700,
+      "TikTok": 8723
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/morganhoong/",
+    "instagramUrl": "https://www.instagram.com/morganhoong/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@morganhoong_",
+    "website": "https://www.instagram.com/morganhoong/?hl=en",
+    "hiddenGem": true
+  },
+  {
+    "id": "30",
+    "name": "Morgan DeBaun",
+    "role": "Founding Blavity Inc which hosts afrotech and other nonprofits to help african americans",
+    "avatar": "/src/data/profile_photos/Morgan_DeBaun.jpeg",
+    "tagline": "Founding Blavity Inc which hosts afrotech and other nonprofits to help african americans",
+    "followers": 359011,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Morgan_DeBaun.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "Black",
+    "careerStage": "Executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Founding Blavity Inc which hosts afrotech and other nonprofits to help african americans",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Executives",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 121711,
+      "Instagram": 160000,
+      "TikTok": 77300
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/morgandebaun/",
+    "instagramUrl": "https://www.instagram.com/morgandebaun/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@morgandebaun?lang=en",
+    "website": "https://morgandebaun.com/",
+    "hiddenGem": false
+  },
+  {
+    "id": "31",
+    "name": "Maryam Bellakbira",
+    "role": "Co-founder",
+    "avatar": "/src/data/profile_photos/Maryam_Bellakbira.jpeg",
+    "tagline": "Biotech founder, Miss america , women empowerment , published researcher at 21",
+    "followers": 11143,
+    "platform": "Instagram",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Maryam_Bellakbira.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "White, Black, Multiracial",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "Biotech founder, Miss america , women empowerment , published researcher at 21",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 2735,
+      "Instagram": 4578,
+      "TikTok": 3830
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/maryambellakbira/",
+    "instagramUrl": "https://www.instagram.com/maryambellakbira/",
+    "tiktokUrl": "https://www.tiktok.com/@missmarybellla?lang=en",
+    "website": "https://www.maryambellakbira.org",
+    "hiddenGem": true
+  },
+  {
+    "id": "32",
+    "name": "Morgan Young",
+    "role": "\"That Linkedin Girl\" Became popular during multiple disney inteships and posting on linkedin Daily",
+    "avatar": "/src/data/profile_photos/Morgan_Young.jpeg",
+    "tagline": "\"That Linkedin Girl\" Became popular during multiple disney inteships and posting on linkedin Daily",
+    "followers": 95234,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Morgan_Young.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "\"That Linkedin Girl\" Became popular during multiple disney inteships and posting on linkedin Daily, pageant contestant, Linkedin final boss",
+    "subCategory": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership"
+    ],
+    "targetAudience": [
+      "College students",
+      "Underepresented individuals",
+      "Founders",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 78261,
+      "Instagram": 16900,
+      "TikTok": 73
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/itsmorganyoung/",
+    "instagramUrl": "https://www.instagram.com/itsmorganashleigh/",
+    "tiktokUrl": "https://www.tiktok.com/@miss.morganyoung",
+    "website": "https://topmate.io/morganyoung",
+    "hiddenGem": false
+  },
+  {
+    "id": "33",
+    "name": "Michelle Lawson",
+    "role": "Girly coding resources , Genz advice to tech recruiting",
+    "avatar": "/src/data/profile_photos/Michelle_Lawson.jpeg",
+    "tagline": "Girly coding resources , Genz advice to tech recruiting",
+    "followers": 200918,
+    "platform": "Instagram",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Michelle_Lawson.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Black",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Girly coding resources , Genz advice to tech recruiting",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 7418,
+      "Instagram": 118000,
+      "TikTok": 75500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/michelle-o-lawson/",
+    "instagramUrl": "https://www.instagram.com/michellescomputer/",
+    "tiktokUrl": "https://www.tiktok.com/@michellescomputer",
+    "website": "https://www.linkedin.com/company/csgirlies/",
+    "hiddenGem": false
+  },
+  {
+    "id": "34",
+    "name": "Megan Lieu",
+    "role": "Meg loves data , instagram . unghiged career tips",
+    "avatar": "/src/data/profile_photos/Megan_Lieu.jpeg",
+    "tagline": "Meg loves data , instagram . unghiged career tips",
+    "followers": 321047,
+    "platform": "LinkedIn",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Megan_Lieu.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Humor"
+    ],
+    "knownFor": "Meg loves data , instagram . strategic career tips, Developer Advocate",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Women",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 187745,
+      "Instagram": 128000,
+      "TikTok": 5302
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/meganlieu/",
+    "instagramUrl": "https://www.instagram.com/meglovesdata/",
+    "tiktokUrl": "https://www.tiktok.com/@meglovesdata",
+    "website": "https://meganlieu.beehiiv.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "35",
+    "name": "Marmik Patel",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Marmik_Patel.jpeg",
+    "tagline": "getting 59 interviews at startups by posting his hackathon adventures on linkeidn",
+    "followers": 7243,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Marmik_Patel.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "getting 59 interviews at startups by posting his hackathon adventures on linkeidn even by being international",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Founders",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 7140,
+      "Instagram": 100,
+      "TikTok": 3
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/marmikp/",
+    "instagramUrl": "https://www.instagram.com/marmikthinks",
+    "tiktokUrl": "https://www.tiktok.com/@marmikthinks?lang=en",
+    "website": "https://www.marmikpatel.com",
+    "hiddenGem": true
+  },
+  {
+    "id": "36",
+    "name": "Mariana Kobayashi",
+    "role": "Video resume that got her a job , productivity, former yoga instructor, travel ,public speaker for career",
+    "avatar": "/src/data/profile_photos/Mariana_Kobayashi.jpeg",
+    "tagline": "Video resume that got her a job , productivity, former yoga instructor, travel ,public speaker for career",
+    "followers": 118199,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Mariana_Kobayashi.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Hispanic/ Latino, Asian, Multiracial",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Video resume that got her a job , productivity, former yoga instructor, travel ,public speaker for career",
+    "subCategory": [
+      "Product Management",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 59652,
+      "Instagram": 53000,
+      "TikTok": 5547
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/marianadkobayashi/",
+    "instagramUrl": "https://www.instagram.com/maridkobayashi/",
+    "tiktokUrl": "https://www.tiktok.com/@marianadkobayashi",
+    "website": "https://calendly.com/hello-marianakobayashi/brandgrowth",
+    "hiddenGem": false
+  },
+  {
+    "id": "37",
+    "name": "Mariana Antaya",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Mariana_Antaya.jpeg",
+    "tagline": "Product management tips on titkok, building ai tools, latina in tech ,",
+    "followers": 350717,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Mariana_Antaya.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Product management tips on titkok, building ai tools, latina in tech ,",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 22517,
+      "Instagram": 265000,
+      "TikTok": 63200
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/marianaantaya/",
+    "instagramUrl": "https://www.instagram.com/mar_antaya/",
+    "tiktokUrl": "https://www.tiktok.com/@mar_antaya",
+    "website": "https://topmate.io/mariana_antaya",
+    "hiddenGem": false
+  },
+  {
+    "id": "38",
+    "name": "Madelyn Machado",
+    "role": "Tiktok career finesse content, strong self advocacy , salary negotiation,",
+    "avatar": "/src/data/profile_photos/Madelyn_Machado.jpeg",
+    "tagline": "Tiktok career finesse content, strong self advocacy , salary negotiation,",
+    "followers": 383833,
+    "platform": "TikTok",
+    "topics": [
+      "Tech Leadership",
+      "Personal Branding",
+      "thought leadership",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Madelyn_Machado.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Black",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Tiktok career finesse content, strong self advocacy , salary negotiation, unhinged career hacks, headhunter pov",
+    "subCategory": [
+      "Tech Leadership",
+      "Personal Branding",
+      "thought leadership",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Women",
+      "Mid career"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 88533,
+      "Instagram": 43000,
+      "TikTok": 252300
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/madelynmachado/",
+    "instagramUrl": "https://www.instagram.com/maddiemacho",
+    "tiktokUrl": "https://www.tiktok.com/@maddie_macho",
+    "website": "https://madelyn-machado.mykajabi.com/offers/zv2ZubZi/checkout",
+    "hiddenGem": false
+  },
+  {
+    "id": "39",
+    "name": "Julia Bock",
+    "role": "Tactical tips to break into and grow a career in product management in big tech , up to date opportunities shared on tiktok and instagram product playbook",
+    "avatar": "/src/data/profile_photos/Julia_Bock.jpeg",
+    "tagline": "Tactical tips to break into and grow a career in product management in big tech , up to date opportunities shared on tiktok and instagram product playbook",
+    "followers": 6374,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Julia_Bock.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Linkedinluvr 'Linkedin Lover' satire tiktok and instagram page , funny commentary on being a women in tech, San francisco tech bro slander ",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 3827,
+      "Instagram": 143,
+      "TikTok": 2404
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/julialbock/",
+    "instagramUrl": "https://www.instagram.com/linkedinluvr/",
+    "tiktokUrl": "https://www.tiktok.com/@linkedinluvr",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "40",
+    "name": "Aparajita Rana",
+    "role": "Tiktok career advice for early career, mental health , lifestyle",
+    "avatar": "/src/data/profile_photos/Aparajita_Rana.jpeg",
+    "tagline": "Tiktok career advice for early career, mental health , lifestyle",
+    "followers": 16157,
+    "platform": "TikTok",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "UI/UX",
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Aparajita_Rana.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips"
+    ],
+    "knownFor": "Tiktok career advice for early career, mental health , lifestyle",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "UI/UX",
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 3057,
+      "Instagram": 600,
+      "TikTok": 12500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/arana23/",
+    "instagramUrl": "https://www.instagram.com/lifeofaprana",
+    "tiktokUrl": "https://www.tiktok.com/@lifeofaprana",
+    "website": "https://buymeacoffee.com/aparajitarana/extras",
+    "hiddenGem": false
+  },
+  {
+    "id": "41",
+    "name": "Kelly He Sun",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Kelly_He_Sun.jpeg",
+    "tagline": "Breaking into consulting advice , recruiting advice , case interview prep",
+    "followers": 38625,
+    "platform": "Instagram",
+    "topics": [
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Kelly_He_Sun.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Breaking into consulting advice , recruiting advice , case interview prep",
+    "subCategory": [
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5525,
+      "Instagram": 21200,
+      "TikTok": 11900
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/kelly-he-sun/",
+    "instagramUrl": "https://www.instagram.com/kellycareermode/",
+    "tiktokUrl": "https://www.tiktok.com/@kellycareermode?lang=en",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "42",
+    "name": "Damaryan Benton",
+    "role": " Founder PR Habitat",
+    "avatar": "/src/data/profile_photos/Damaryan_Benton.jpeg",
+    "tagline": "",
+    "followers": 17282,
+    "platform": "LinkedIn",
+    "topics": [
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Damaryan_Benton.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "PR Habitat , helping young people get into PR, Personal Branding, career tips",
+    "subCategory": [
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 14454,
+      "Instagram": 2560,
+      "TikTok": 268
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/damaryanbenton/",
+    "instagramUrl": "https://www.instagram.com/damaryan_ben10/",
+    "tiktokUrl": "https://www.tiktok.com/@justdamaryan",
+    "website": "https://linktr.ee/theprhabitat",
+    "hiddenGem": false
+  },
+  {
+    "id": "43",
+    "name": "Jia Chen",
+    "role": "22x hackathoin wins, music artist , tactical tips , startup life",
+    "avatar": "/src/data/profile_photos/Jia_Chen.jpg",
+    "tagline": "22x hackathoin wins, music artist , tactical tips , startup life",
+    "followers": 114096,
+    "platform": "Instagram",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Public speaking",
+      "thought leadership",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jia_Chen.jpg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "22x hackathoin wins, music artist , tactical tips , startup life",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Public speaking",
+      "thought leadership",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Founders",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 41945,
+      "Instagram": 71300,
+      "TikTok": 851
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/audrey-chen-tech",
+    "instagramUrl": "https://www.instagram.com/jia.seed/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@jia.seed",
+    "website": "https://www.jia.build/",
+    "hiddenGem": false
+  },
+  {
+    "id": "44",
+    "name": "Jess Ramos",
+    "role": "Big Data Energy , Girly but also loves data , realistic progression into tech , work life balance",
+    "avatar": "/src/data/profile_photos/Jess_Ramos.jpeg",
+    "tagline": "Big Data Energy , Girly but also loves data , realistic progression into tech , work life balance",
+    "followers": 365794,
+    "platform": "LinkedIn",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Tech Leadership",
+      "Content strategy",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jess_Ramos.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "White",
+    "careerStage": "Senior/ executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Big Data Energy , Girly but also loves data , realistic progression into tech , work life balance",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Tech Leadership",
+      "Content strategy",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 240094,
+      "Instagram": 96200,
+      "TikTok": 29500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/jessramosmsba/",
+    "instagramUrl": "https://www.instagram.com/jessramosdata/",
+    "tiktokUrl": "https://www.tiktok.com/@jessramosdata",
+    "website": "https://jessramosdata.substack.com/",
+    "hiddenGem": false
+  },
+  {
+    "id": "45",
+    "name": "John Hu",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/John_Hu.jpeg",
+    "tagline": "Creating a platform for creators to monetize their platform , diary of building a company on tiktok",
+    "followers": 239028,
+    "platform": "TikTok",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/John_Hu.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "White, Asian",
+    "careerStage": "Executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Creating a platform for creators to monetize their platform , diary of building a company on tiktok",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "early stage startup",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Executives",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 53528,
+      "Instagram": 23500,
+      "TikTok": 162000
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/johnghu/",
+    "instagramUrl": "https://www.instagram.com/jayhoovy/",
+    "tiktokUrl": "https://www.tiktok.com/@jayhoovy?lang=en",
+    "website": "https://www.stan.store/",
+    "hiddenGem": false
+  },
+  {
+    "id": "46",
+    "name": "DeAndre Brown",
+    "role": "Funny takes on tiktok on corporate life from a genz perspective, salary tranparancy and negotiation advocate, marketing consulting",
+    "avatar": "/src/data/profile_photos/DeAndre_Brown.jpeg",
+    "tagline": "Funny takes on tiktok on corporate life from a genz perspective, salary tranparancy and negotiation advocate, marketing consulting",
+    "followers": 1513037,
+    "platform": "TikTok",
+    "topics": [
+      "Corporate Finance / Accounting",
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/DeAndre_Brown.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Funny takes on tiktok on corporate life from a genz perspective, salary tranparancy and negotiation advocate, marketing consulting",
+    "subCategory": [
+      "Corporate Finance / Accounting",
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 44037,
+      "Instagram": 369000,
+      "TikTok": 1100000
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/deandre-brown/",
+    "instagramUrl": "https://www.instagram.com/imdrebrown/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@imdrebrown?lang=en",
+    "website": "https://linktr.ee/imdrebrown",
+    "hiddenGem": false
+  },
+  {
+    "id": "47",
+    "name": "Brian Oviedo",
+    "role": "First gen career advice on tiktok, Posting opportunities for first gen and latinos on tiktok",
+    "avatar": "/src/data/profile_photos/Brian_Oviedo.jpeg",
+    "tagline": "First gen career advice on tiktok, Posting opportunities for first gen and latinos on tiktok",
+    "followers": 13171,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Digital Marketing",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Brian_Oviedo.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "First gen career advice on tiktok, Posting opportunities for first gen and latinos on tiktok",
+    "subCategory": [
+      "Tech Leadership",
+      "Digital Marketing",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 6132,
+      "Instagram": 2037,
+      "TikTok": 5002
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/brianoviedo/",
+    "instagramUrl": "https://www.instagram.com/imbrianoviedo/",
+    "tiktokUrl": "https://www.tiktok.com/@imbrianoviedo",
+    "website": "https://www.hopp.bio/imbrianoviedo",
+    "hiddenGem": false
+  },
+  {
+    "id": "48",
+    "name": "Akosua Boadi-Agyemang",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Akosua_Boadi-Agyemang.jpeg",
+    "tagline": "Getting a microsoft internship after a viral linkedin post , met many tech ceos, inspiring international student story , overcame adversity , strong self advocate, international student help",
+    "followers": 219825,
+    "platform": "LinkedIn",
+    "topics": [
+      "Digital Marketing",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Akosua_Boadi-Agyemang.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "Black",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Getting a microsoft intership after a viral linkedin post , met many tech ceos, inspiring international student story , overcame adversity , strong self advocate, international student help",
+    "subCategory": [
+      "Digital Marketing",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Executives",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 106983,
+      "Instagram": 7242,
+      "TikTok": 105600
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/akosuaba/",
+    "instagramUrl": "https://www.instagram.com/akos_ba/",
+    "tiktokUrl": "https://www.tiktok.com/@herboldjournal",
+    "website": "https://linktr.ee/Akos_ba",
+    "hiddenGem": false
+  },
+  {
+    "id": "49",
+    "name": "Obafemi Ajayi",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Obafemi_Ajayi.jpeg",
+    "tagline": "Head Start Fellowship founder, 7 internships, deferred mba",
+    "followers": 51593,
+    "platform": "Instagram",
+    "topics": [
+      "Venture Captial",
+      "Corporate Finance / Accounting",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Obafemi_Ajayi.jpeg",
+    "gender": "Male",
+    "ageGroup": "30+",
+    "ethnicity": "Black",
+    "careerStage": "Executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips"
+    ],
+    "knownFor": "Head Start Fellowship founder, 7 internships, deferred mba",
+    "subCategory": [
+      "Venture Captial",
+      "Corporate Finance / Accounting",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 12893,
+      "Instagram": 22200,
+      "TikTok": 16500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/ajayioba/",
+    "instagramUrl": "https://www.instagram.com/obatried",
+    "tiktokUrl": "https://www.tiktok.com/@headstartfellowship",
+    "website": "https://linktr.ee/obatried",
+    "hiddenGem": false
+  },
+  {
+    "id": "50",
+    "name": "Hali Jama",
+    "role": "Having multiple offers, nagivating corporate, , tiktok. career tips having multiple internships ,",
+    "avatar": "/src/data/profile_photos/Hali_Jama.jpeg",
+    "tagline": "Having multiple offers, nagivating corporate, , tiktok. career tips having multiple internships ,",
+    "followers": 193561,
+    "platform": "TikTok",
+    "topics": [
+      "Digital Marketing",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Hali_Jama.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Having multiple offers, nagivating corporate, , tiktok. career tips having multiple internships ,",
+    "subCategory": [
+      "Digital Marketing",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 15961,
+      "Instagram": 33200,
+      "TikTok": 144400
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/hali-jama/",
+    "instagramUrl": "https://www.instagram.com/hali.jama/",
+    "tiktokUrl": "https://www.tiktok.com/@haliijama?lang=en",
+    "website": "",
+    "hiddenGem": true
+  },
+  {
+    "id": "51",
+    "name": "Gazi J",
+    "role": "Aesthetic day in the life as a swe tiktoks and reels ,coding aesthetic, creative and tech , reality of working in tech hot takes",
+    "avatar": "/src/data/profile_photos/Gazi_J.jpeg",
+    "tagline": "Aesthetic day in the life as a swe tiktoks and reels ,coding aesthetic, creative and tech , reality of working in tech hot takes",
+    "followers": 1203932,
+    "platform": "TikTok",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Public speaking",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Gazi_J.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Aesthetic day in the life as a swe tiktoks and reels ,coding aesthetic, creative and tech , reality of working in tech hot takes",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Public speaking",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 21632,
+      "Instagram": 539000,
+      "TikTok": 643300
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/gazijarin/",
+    "instagramUrl": "https://www.instagram.com/gazisj/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@gazi.ai?lang=en",
+    "website": "https://beacons.ai/gazi.ai",
+    "hiddenGem": false
+  },
+  {
+    "id": "52",
+    "name": "Frank Niu",
+    "role": "",
+    "avatar": "/src/data/profile_photos/Frank_Niul.jpeg",
+    "tagline": "",
+    "followers": 968796,
+    "platform": "TikTok",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Frank_Niul.jpeg",
+    "gender": "Male",
+    "ageGroup": "30+",
+    "ethnicity": "Asian",
+    "careerStage": "Senior/ executive",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Tech Bro Grandfather on tiktok, tech industry Wisdom , Girl dad , Salary transparency ",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 14096,
+      "Instagram": 0,
+      "TikTok": 954700
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/frankniu/",
+    "instagramUrl": "",
+    "tiktokUrl": "https://www.tiktok.com/@frankniu",
+    "website": "",
+    "hiddenGem": true
+  },
+  {
+    "id": "53",
+    "name": "Evis Drenova",
+    "role": "tech, entreprenurship and coding hot takes on tiktok, YC startup Neosync acquired , Mba grad , albanian, Runner, \"hot\" tech bro",
+    "avatar": "/src/data/profile_photos/Evis_Drenova.jpeg",
+    "tagline": "",
+    "followers": 46435,
+    "platform": "TikTok",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "Salary negotiation",
+      "Public speaking"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Evis_Drenova.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "White",
+    "careerStage": "Senior/ executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Humor"
+    ],
+    "knownFor": "tech, entreprenurship and coding hot takes on tiktok, YC startup Neosync acquired , Mba grad , albanian, Runner, \"hot\" tech bro",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "Salary negotiation",
+      "Public speaking"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Founders",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 7696,
+      "Instagram": 39,
+      "TikTok": 39100
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/evisdrenova/",
+    "instagramUrl": "",
+    "tiktokUrl": "https://www.tiktok.com/@evisdrenova",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "54",
+    "name": "Zach Wilson",
+    "role": "",
+    "avatar": "/src/data/profile_photos/Zach_Wilson.jpeg",
+    "tagline": "",
+    "followers": 769332,
+    "platform": "LinkedIn",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Zach_Wilson.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "White",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "salary transparancy , data analysis , mental health, data teacher",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 482732,
+      "Instagram": 200000,
+      "TikTok": 86600
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/eczachly/",
+    "instagramUrl": "https://www.instagram.com/eczachly/",
+    "tiktokUrl": "https://www.tiktok.com/@eczachly",
+    "website": "https://www.dataexpert.io",
+    "hiddenGem": false
+  },
+  {
+    "id": "55",
+    "name": "Grace Ling",
+    "role": "Design Buddies nonprofit",
+    "avatar": "/src/data/profile_photos/Grace_Ling.jpeg",
+    "tagline": "Design Buddies nonprofit",
+    "followers": 62469,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "UI/UX",
+      "Digital Marketing",
+      "Personal Branding",
+      "Public speaking",
+      "Wellness, Productivity"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Grace_Ling.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Design Buddies nonprofit",
+    "subCategory": [
+      "Software Engineering",
+      "UI/UX",
+      "Digital Marketing",
+      "Personal Branding",
+      "Public speaking",
+      "Wellness, Productivity"
+    ],
+    "targetAudience": [
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 51968,
+      "Instagram": 9993,
+      "TikTok": 508
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/graceling/",
+    "instagramUrl": "https://www.instagram.com/irungracepace/",
+    "tiktokUrl": "https://www.tiktok.com/@designbuddies",
+    "website": "https://discord.gg/designbuddies",
+    "hiddenGem": false
+  },
+  {
+    "id": "56",
+    "name": "Coco Hernandez",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Coco_Hernandez.jpeg",
+    "tagline": "intro to python book for kids in spanish, reduce gap for latinas in tech",
+    "followers": 6819,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "Tech Leadership",
+      "Digital Marketing",
+      "DEI",
+      "Wellness, Productivity",
+      "Fashion tech",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Coco_Hernandez.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "intro to python book for kids in spanish, reduce gap for latinas in tech",
+    "subCategory": [
+      "Product Management",
+      "Tech Leadership",
+      "Digital Marketing",
+      "DEI",
+      "Wellness, Productivity",
+      "Fashion tech",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 2275,
+      "Instagram": 2953,
+      "TikTok": 1591
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/athenachernandez/",
+    "instagramUrl": "https://www.instagram.com/cocohdzz/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@cocopuffffffffs?lang=en",
+    "website": "https://www.usecollabz.com",
+    "hiddenGem": true
+  },
+  {
+    "id": "57",
+    "name": "Chungin Roy Lee",
+    "role": "Co-founder",
+    "avatar": "/src/data/profile_photos/Chungin_Roy_Lee.jpeg",
+    "tagline": "Creating and interview cheating software, 1m arr in less than 40 days , kicked out of Ivy League",
+    "followers": 120654,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Film and video production",
+      "Public speaking",
+      "early stage startup",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Chungin_Roy_Lee.jpeg",
+    "gender": "Male",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Creating and interview cheating software, 1m arr in less than 40 days , kicked out of Ivy League, fast growing genz startup",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Film and video production",
+      "Public speaking",
+      "early stage startup",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Founders",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 51154,
+      "Instagram": 51100,
+      "TikTok": 18400
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/roy-lee-goat/",
+    "instagramUrl": "https://www.instagram.com/im_roy_lee/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@cluely?lang=en",
+    "website": "https://cluely.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "58",
+    "name": "Chloe Shih",
+    "role": "aesthetic , YouTuber, and overall content creator , mental health , growing as a pm , tips on navigating adulthood",
+    "avatar": "/src/data/profile_photos/Chloe_Shih.jpeg",
+    "tagline": "aesthetic , YouTuber, and overall content creator , mental health , growing as a pm , tips on navigating adulthood",
+    "followers": 1700679,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Chloe_Shih.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "Asian",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "aesthetic , YouTuber, and overall content creator , mental health , growing as a pm , tips on navigating adulthood",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Personal Branding",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 148179,
+      "Instagram": 1100000,
+      "TikTok": 452500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/chloe-shih/",
+    "instagramUrl": "https://www.instagram.com/chloe.shih/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@chloeshih?lang=en",
+    "website": "https://www.youtube.com/@chloeshih",
+    "hiddenGem": false
+  },
+  {
+    "id": "59",
+    "name": "Colin Rocker",
+    "role": "First-generation professional and former consultant turned content creator—he’s known for advocating career growth and building a movement for “the firsts.” Founder of For The Firsts, he helps others chase purpose beyond traditional job titles.",
+    "avatar": "/src/data/profile_photos/Colin_Rocker.jpeg",
+    "tagline": "First-generation professional and former consultant turned content creator—he’s known for advocating career growth and building a movement for “the firsts.” Founder of For The Firsts, he helps others chase purpose beyond traditional job titles.",
+    "followers": 385557,
+    "platform": "Instagram",
+    "topics": [
+      "Content strategy",
+      "Personal Branding",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Colin_Rocker.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "Black",
+    "careerStage": "Senior/ executive",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "First-generation professional and former consultant turned content creator—he’s known for advocating career growth and building a movement for “the firsts.” in New York Founder of For The Firsts, he helps others chase purpose beyond traditional job titles.",
+    "subCategory": [
+      "Content strategy",
+      "Personal Branding",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 24657,
+      "Instagram": 236000,
+      "TikTok": 124900
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/colinrocker/",
+    "instagramUrl": "https://www.instagram.com/careercolin/",
+    "tiktokUrl": "https://www.tiktok.com/@careercolin",
+    "website": "https://colinrocker.kit.com/profile",
+    "hiddenGem": false
+  },
+  {
+    "id": "60",
+    "name": "Ciara cade",
+    "role": "founding Tech cadets community, top intern of the year way up",
+    "avatar": "/src/data/profile_photos/Ciara_Cade.jpeg",
+    "tagline": "founding Tech cadets community, top intern of the year way up",
+    "followers": 27537,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Ciara_Cade.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Black",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "founding Tech cadets community, top intern of the year way up",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 21063,
+      "Instagram": 2432,
+      "TikTok": 4042
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/ciaracade/",
+    "instagramUrl": "https://www.instagram.com/ciaracade/",
+    "tiktokUrl": "https://www.tiktok.com/@cadeciara",
+    "website": "https://calendly.com/ciaracade/chat-with-ciara?month=2025-08",
+    "hiddenGem": false
+  },
+  {
+    "id": "61",
+    "name": "Ben Wolfson",
+    "role": "Tech Bro Grandfather on tiktok, tech industry Wisdom , Girl dad , Salary transparency",
+    "avatar": "/src/data/profile_photos/Ben_Wolfson.jpeg",
+    "tagline": "Tech Bro Grandfather on tiktok, tech industry Wisdom , Girl dad , Salary transparency",
+    "followers": 188046,
+    "platform": "Instagram",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Ben_Wolfson.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "White",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Tech Bro Grandfather on tiktok, tech industry Wisdom , Girl dad , Salary transparency",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Founders",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 3546,
+      "Instagram": 105000,
+      "TikTok": 79500
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/benjwolfson/",
+    "instagramUrl": "https://www.instagram.com/wolfson/",
+    "tiktokUrl": "https://www.tiktok.com/@benswolfson",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "62",
+    "name": "Carter Abdallah",
+    "role": "Former frat president , posted self development advice for younger men on titktok, productivity hacks , SF tech scene , Founding engineer of brev.dev aquired by NVDIA",
+    "avatar": "/src/data/profile_photos/Carter_Abdallah.jpeg",
+    "tagline": "Former frat president , posted self development advice for younger men on titktok, productivity hacks , SF tech scene , Founding engineer of brev.dev aquired by NVDIA",
+    "followers": 875775,
+    "platform": "TikTok",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Carter_Abdallah.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "White",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "First Gen inspirational story, Immigrant to google story , dominican born , founder of Max up",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Founders",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 40575,
+      "Instagram": 322000,
+      "TikTok": 513200
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/carter-abdallah-958666140/",
+    "instagramUrl": "https://www.instagram.com/baxate_carter/",
+    "tiktokUrl": "https://www.tiktok.com/@baxate_carter",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "63",
+    "name": "Avni Barman",
+    "role": "Getting a swe internship woth minimal coding experience in a few months , unhiged career hacks for women, Gen She, Delulu CEO, Abundance Mindset ",
+    "avatar": "/src/data/profile_photos/Avni_Barman.jpeg",
+    "tagline": "Getting a swe internship woth minimal coding experience in a few months , unhiged career hacks for women, Gen She, Delulu CEO, Abundance Mindset ",
+    "followers": 333625,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Avni_Barman.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Getting rejected from google , turned around and succeced second time. product manager podcast",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundrarind and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 60225,
+      "Instagram": 234000,
+      "TikTok": 39400
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/avnibarman/",
+    "instagramUrl": "https://www.instagram.com/avnibarman_/",
+    "tiktokUrl": "https://www.tiktok.com/@avnibarman_",
+    "website": "https://newsletter.generationshe.co/subscribe",
+    "hiddenGem": false
+  },
+  {
+    "id": "64",
+    "name": "Catherine Goetze",
+    "role": "Free AI education, Tech news, Productitivity , interviewing sergey brin",
+    "avatar": "/src/data/profile_photos/Catherine_Goetze.jpeg",
+    "tagline": "Free AI education, Tech news, Productitivity , interviewing sergey brin",
+    "followers": 807913,
+    "platform": "TikTok",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Catherine_Goetze.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Free AI education, Tech news, Productitivity , interviewing sergey brin",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Digital Marketing",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5213,
+      "Instagram": 346000,
+      "TikTok": 456700
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/catherinegoetze/",
+    "instagramUrl": "https://www.instagram.com/askcatgpt/",
+    "tiktokUrl": "https://www.tiktok.com/@askcatgpt?lang=en",
+    "website": "https://askcatgpt.com/",
+    "hiddenGem": false
+  },
+  {
+    "id": "65",
+    "name": "Anthony Mays",
+    "role": "Former Google engineer turned speaker, author, and DEI consultant, known for sharing his journey from foster care in Compton to tech leadership. Helps organizations and individuals build equity in tech through coaching, storytelling, and radical candor.",
+    "avatar": "/src/data/profile_photos/Anthony_Mays.jpeg",
+    "tagline": "Former Google engineer turned speaker, author, and DEI consultant, known for sharing his journey from foster care in Compton to tech leadership. Helps organizations and individuals build equity in tech through coaching, storytelling, and radical candor.",
+    "followers": 38312,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Anthony_Mays.jpeg",
+    "gender": "Male",
+    "ageGroup": "30+",
+    "ethnicity": "Black",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Former Google engineer turned speaker, author, and DEI consultant, known for sharing his journey from foster care in Compton to tech leadership. Helps organizations and individuals build equity in tech through coaching, storytelling, and radical candor.",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Content strategy",
+      "Personal Branding",
+      "Salary negotiation",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 35116,
+      "Instagram": 2370,
+      "TikTok": 826
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/anthonydmays/",
+    "instagramUrl": "https://www.instagram.com/anthonydmays/",
+    "tiktokUrl": "https://www.tiktok.com/@anthonydmays",
+    "website": "morganlatimer.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "66",
+    "name": "Edward Honour",
+    "role": "Co-founder",
+    "avatar": "/src/data/profile_photos/Edward_Honour.jpeg",
+    "tagline": "Tech-savvy skateboarder who breaks down AI and tech news via fun, skateboard-mounted Instagram videos.",
+    "followers": 218936,
+    "platform": "Instagram",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Cybersecurity",
+      "Public speaking",
+      "Wellness, Productivity"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Edward_Honour.jpeg",
+    "gender": "Male",
+    "ageGroup": "30+",
+    "ethnicity": "White",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational"
+    ],
+    "knownFor": "Tech-savvy skateboarder who breaks down AI and tech news via fun, skateboard-mounted Instagram videos.",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Cybersecurity",
+      "Public speaking",
+      "Wellness, Productivity"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 1330,
+      "Instagram": 217000,
+      "TikTok": 606
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/edhonour/",
+    "instagramUrl": "https://www.instagram.com/edhonour/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@angulared2",
+    "website": "https://www.skool.com/ai-masters-community/about",
+    "hiddenGem": true
+  },
+  {
+    "id": "67",
+    "name": "Andrew Yeung",
+    "role": "Andrew's mixers , hosts tech parties",
+    "avatar": "/src/data/profile_photos/Andrew_Yeung.jpg",
+    "tagline": "Andrew's mixers , hosts tech parties",
+    "followers": 82761,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "Wellness, Productivity",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Andrew_Yeung.jpg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Humor"
+    ],
+    "knownFor": "Andrew's mixers , hosts tech parties",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "Wellness, Productivity",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Executives",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 66978,
+      "Instagram": 14900,
+      "TikTok": 883
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/andyeung/",
+    "instagramUrl": "https://instagram.com/andrewsmixers",
+    "tiktokUrl": "https://www.tiktok.com/@andruyeung",
+    "website": "https://www.andrew.today/",
+    "hiddenGem": false
+  },
+  {
+    "id": "68",
+    "name": "Alexis Barber",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Alexis_Barber.jpeg",
+    "tagline": "Helping make YouTube shorts, eldest Daugther Candid takes on TikTok on MBA admissions and life as an ambitious black woman , Book author 'Too smart\"",
+    "followers": 145097,
+    "platform": "TikTok",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Alexis_Barber.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Helping make YouTube shorts, eldest Daugther Candid takes on TikTok on MBA admissions and life as an ambitious black woman , Book author 'Too smart\"",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Executives",
+      "Founders",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 3897,
+      "Instagram": 23000,
+      "TikTok": 118200
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/alexis-barber-57a732129/",
+    "instagramUrl": "https://www.instagram.com/alexisbarber/?hl=en",
+    "tiktokUrl": "https://www.tiktok.com/@alexisbarber_",
+    "website": "https://www.penguinrandomhouse.com/books/761193/too-smart-for-this-by-alexis-barber/",
+    "hiddenGem": false
+  },
+  {
+    "id": "69",
+    "name": "Alberta Devor",
+    "role": "Google engineer and TikTok voice (“tech bro slanderer”) known for her humorous AI diss tracks and empowering women in tech narratives.",
+    "avatar": "/src/data/profile_photos/Alberta_Devor.jpeg",
+    "tagline": "Google engineer and TikTok voice (“tech bro slanderer”) known for her humorous AI diss tracks and empowering women in tech narratives.",
+    "followers": 385316,
+    "platform": "Instagram",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Digital Marketing",
+      "Content strategy",
+      "Film and video production"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Alberta_Devor.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "White",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Google engineer and TikTok voice (“tech bro slanderer”) known for her humorous AI diss tracks and empowering women in tech narratives.",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Digital Marketing",
+      "Content strategy",
+      "Film and video production"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "TikTok"
+    ],
+    "followers_detail": {
+      "LinkedIn": 2216,
+      "Instagram": 234000,
+      "TikTok": 149100
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/alberta1",
+    "instagramUrl": "https://www.instagram.com/alberta.tech?igsh=djBkcmNmczU0M3Fn",
+    "tiktokUrl": "https://www.tiktok.com/@alberta.nyc?_t=ZT-8z4jflWLNAD&_r=1",
+    "website": "beacons.ai/albertatech",
+    "hiddenGem": false
+  },
+  {
+    "id": "70",
+    "name": "Julia Li",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Julia_Li.jpeg",
+    "followers": 7751,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Julia_Li.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Cold Dm advice, startups , personal branding , humor",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership"
+    ],
+    "targetAudience": [
+      "College students",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 7751,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/juliajiaqili/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "71",
+    "name": "Daniela Andrade",
+    "role": "Co-Founder",
+    "avatar": "/src/data/profile_photos/default.jpeg",
+    "tagline": "Women in entrepreneurship community , helping connect top talent to startups , opportunity connector",
+    "followers": 35442,
+    "platform": "LinkedIn",
+    "topics": [
+      "Venture Captial",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/default.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Women in entrepreneurship community , helping connect top talent to startups , opportunity connector",
+    "subCategory": [
+      "Venture Captial",
+      "Content strategy",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Founders",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 35442,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/danielaandrade1/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://blog.wwvlabs.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "72",
+    "name": "Jeff nguyen",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Jeff_Nguyen.jpeg",
+    "tagline": "Mental Health Advocate during recruiting season , founder of mentorship group bobatalks",
+    "followers": 119020,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jeff_Nguyen.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Mental Health Advocate during recruiting season , founder of mentorship group bobatalks",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 118588,
+      "Instagram": 432,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/jvngyn/",
+    "instagramUrl": "https://www.instagram.com/wearebobatalks/",
+    "tiktokUrl": "",
+    "website": "https://www.bobatalks.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "73",
+    "name": "Manny Duenas",
+    "role": "Founder of InternShip ",
+    "avatar": "/src/data/profile_photos/Manny_Duenas.jpeg",
+    "tagline": "Navigating recruitment season from recruiters POV , Intern SHIP In person networking events, Humor ",
+    "followers": 65362,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Manny_Duenas.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Navigating recruitment season from recruiters POV , Intern SHIP In person networking events, Humor",
+    "subCategory": [
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 63857,
+      "Instagram": 1505,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/manny-duenas/",
+    "instagramUrl": "https://www.instagram.com/the.university.recruiter/?hl=en",
+    "tiktokUrl": "",
+    "website": "https://internship.beehiiv.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "74",
+    "name": "Keiyana Arnold",
+    "role": "Co-founder",
+    "avatar": "/src/data/profile_photos/Keiyana_Arnold.jpeg",
+    "tagline": "Positive motivation , helping people with navigating recruiting, empathetic strategy , building intentional strategy",
+    "followers": 12505,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Keiyana_Arnold.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Black",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Positive motivation , helping people with navigating recruiting, empathetic strategy , building intentional strategy",
+    "subCategory": [
+      "Tech Leadership",
+      "Film and video production",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 10876,
+      "Instagram": 1629,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/keiyana-arnold/",
+    "instagramUrl": "https://www.instagram.com/keiyanamaria/",
+    "tiktokUrl": "",
+    "website": "https://professionalloveletter.bio",
+    "hiddenGem": false
+  },
+  {
+    "id": "75",
+    "name": "Jahnavi Shah",
+    "role": "Hot Takes on receruiting in tech , Applied to 500 jobs, Posting job opportunities",
+    "avatar": "/src/data/profile_photos/Jahnavi_Shah.jpeg",
+    "tagline": "Hot Takes on receruiting in tech , Applied to 500 jobs, Posting job opportunities",
+    "followers": 98334,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jahnavi_Shah.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Hot Takes on recruiting in tech , Applied to 500 jobs, Posting job opportunities",
+    "subCategory": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 83734,
+      "Instagram": 14600,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/jahnshah/",
+    "instagramUrl": "https://www.instagram.com/jahnavishaah/",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "76",
+    "name": "Harleny Vasquez",
+    "role": "yourEVOLVEDmind College Speaker",
+    "avatar": "/src/data/profile_photos/Harleny_Vasquez.jpeg",
+    "tagline": "yourEVOLVEDmind College Speaker",
+    "followers": 42745,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Harleny_Vasquez.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Black, Hispanic/ Latino",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "yourEVOLVEDmind College Speaker",
+    "subCategory": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 35336,
+      "Instagram": 7409,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/harlenyvasquez/",
+    "instagramUrl": "https://www.instagram.com/itsharlenyvasquez/",
+    "tiktokUrl": "",
+    "website": "www.yourevolvedmind.com",
+    "hiddenGem": false
+  },
+  {
+    "id": "77",
+    "name": "Coral Miniel",
+    "role": "Going to over 9 conferences across the US , Forward Thinkers show Podcast , data driven analysis",
+    "avatar": "/src/data/profile_photos/Coral_Miniel.jpeg",
+    "tagline": "Going to over 9 conferences across the US , Forward Thinkers show Podcast , data driven analysis",
+    "followers": 3370,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Coral_Miniel.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Black, Hispanic/ Latino",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Going to over 9 conferences across the US , Forward Thinkers show Podcast host, data driven analysis, ",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 3208,
+      "Instagram": 162,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/coralminiel/",
+    "instagramUrl": "https://www.instagram.com/hey.itscoral/",
+    "tiktokUrl": "",
+    "website": "https://www.youtube.com/@ForwardThinkersShow",
+    "hiddenGem": true
+  },
+  {
+    "id": "78",
+    "name": "Catalina Peña",
+    "role": "Speaking engagement and career developemnt for BIPOC individuals, worked in recruiting at other big tech companies , career coach",
+    "avatar": "/src/data/profile_photos/Catalina_Peña.jpeg",
+    "tagline": "Speaking engagement and career developemnt for BIPOC individuals, worked in recruiting at other big tech companies , career coach",
+    "followers": 15557,
+    "platform": "Instagram",
+    "topics": [
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Catalina_Peña.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Black, Hispanic/ Latino",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "Speaking engagement and career developemnt for BIPOC individuals, worked in recruiting at other big tech companies , career coach",
+    "subCategory": [
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5608,
+      "Instagram": 9949,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/cpenapen/",
+    "instagramUrl": "https://www.instagram.com/curiouscata/?hl=en",
+    "tiktokUrl": "",
+    "website": "https://calendly.com/catalystcreation/coachingsession",
+    "hiddenGem": true
+  },
+  {
+    "id": "79",
+    "name": "Bobby Dorlus",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Bobby_Dorlusl.jpeg",
+    "tagline": "Speaker with 20 yeo , twitter tech historian , one of the few black staff engineers in the beggineng of twitter, BIPOC advocate",
+    "followers": 4831,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Bobby_Dorlusl.jpeg",
+    "gender": "Male",
+    "ageGroup": "30+",
+    "ethnicity": "Black",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Speaker with 20 Years of Experience , twitter tech historian , one of the few black staff engineers in the beginning of twitter, BIPOC advocate",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 4302,
+      "Instagram": 529,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/j-bobby-dorlus/",
+    "instagramUrl": "https://www.instagram.com/bobbyd_fl/",
+    "tiktokUrl": "",
+    "website": "https://calendly.com/bobbyd_fl/1-1-with-bobby-d?month=2024-03&fbclid=PAZXh0bgNhZW0CMTEAAacMY_Ij6EPsidxSUJAzHykbu4_hVC32lyu_tlZ15WwhmMbqyDCMt7vXVqRZww_aem_4qVfINMAwgyh9CWKTJARrA",
+    "hiddenGem": false
+  },
+  {
+    "id": "80",
+    "name": "Aimen Moten",
+    "role": "453 rejections, cold emailing and hustling during tech recruitment season",
+    "avatar": "/src/data/profile_photos/Aimen_Moten.jpeg",
+    "tagline": "453 rejections, cold emailing and hustling during tech recruitment season",
+    "followers": 22514,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Aimen_Moten.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "453 rejections, cold emailing and hustling during tech recruitment season",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "followers_detail": {
+      "LinkedIn": 20976,
+      "Instagram": 1538,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/aimen-moten/",
+    "instagramUrl": "https://www.instagram.com/aimenmoten/?hl=en",
+    "tiktokUrl": "",
+    "website": "https://topmate.io/aimen_moten",
+    "hiddenGem": false
+  },
+  {
+    "id": "81",
+    "name": "Nicole Fernandez-Valle",
+    "role": "Recruiter",
+    "avatar": "/src/data/profile_photos/Nicole_Fernandez-Valle.jpeg",
+    "tagline": "Job Hunt like a Recruiter, strategic Career hacks Girly Leetcoding prep on instagram ,1000 jobs",
+    "followers": 341915,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Nicole_Fernandez-Valle.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Hispanic/ Latino",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Job Hunt like a Recruiter, strategic Career hacks Girly Leetcoding prep on instagram ,1000 jobs",
+    "subCategory": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 341915,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/nicolefernandez-valle/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://calendly.com/nicolefvalle",
+    "hiddenGem": false
+  },
+  {
+    "id": "82",
+    "name": "Linda Lee",
+    "role": "Mental health advocate during recruitment; recognized for bridging corporate environments with mental wellness strategies",
+    "avatar": "/src/data/profile_photos/Linda_Lee.jpeg",
+    "tagline": "Mental health advocate during recruitment; recognized for bridging corporate environments with mental wellness strategies",
+    "followers": 608681,
+    "platform": "LinkedIn",
+    "topics": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Linda_Lee.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "Mental health advocate during recruitment; recognized for bridging corporate environments with mental wellness strategies",
+    "subCategory": [
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 608681,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/lindale20/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "83",
+    "name": "Mark Benliyan",
+    "role": "Leetcoding final boss, Gymbro and tech bro, Podcaster , Big tech recruiting tips",
+    "avatar": "/src/data/profile_photos/Mark_Benliyan.jpeg",
+    "tagline": "Leetcoding final boss, Gymbro and tech bro, Podcaster , Big tech recruiting tips",
+    "followers": 110297,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Mark_Benliyan.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "White",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Leetcoding final boss, Gymbro and tech bro, Podcaster , Big tech recruiting tips",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Podcast",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 110297,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/markbenliyan/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "84",
+    "name": "Aashna Doshi",
+    "role": "Google SWE",
+    "avatar": "/src/data/profile_photos/Aashna_Doshi.jpeg",
+    "tagline": "taco bell scholar, career tips for immigrants/first gen, posting job links ,",
+    "followers": 48236,
+    "platform": "LinkedIn",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Film and video production",
+      "Podcast",
+      "Public speaking"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Aashna_Doshi.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Ai resources , Google step intern, podcaster",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Film and video production",
+      "Podcast",
+      "Public speaking"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 48236,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/aashnadoshi/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://topmate.io/aashna_doshi",
+    "hiddenGem": false
+  },
+  {
+    "id": "85",
+    "name": "Linda Nguyen",
+    "role": " Recieved 9 Big tech offers, helps students with guides to help them through interviewing",
+    "avatar": "src/data/profile_photos/Linda_Nguyen.jpeg",
+    "tagline": "9 Big tech offers, helps students with guides to help them through interviewing",
+    "followers": 25894,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Public speaking"
+    ],
+    "style": "Educational",
+    "profilePhoto": "src/data/profile_photos/Linda_Nguyen.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Humor"
+    ],
+    "knownFor": "9 Big tech offers, helps students with guides to help them through interviewing",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Public speaking"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 25894,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/lindaislinda/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "86",
+    "name": "Kevin Liao",
+    "role": "Co-founder",
+    "avatar": "/src/data/profile_photos/Kevin_Liao.jpeg",
+    "tagline": "Practical CS student advice , Polyglot",
+    "followers": 25415,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Kevin_Liao.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips"
+    ],
+    "knownFor": "Practical CS student advice , Career consultant , Polyglot",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 25415,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/kevinliao2003/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://topmate.io/kevin_liao",
+    "hiddenGem": false
+  },
+  {
+    "id": "87",
+    "name": "Chanel Power",
+    "role": "Founder of Mentor me collective First gen technologists, very big mentorship program, inspiring story",
+    "avatar": "/src/data/profile_photos/Chanel_Power.jpeg",
+    "tagline": "Founder of Mentor me collective First gen technologists, very big mentorship program, inspiring story",
+    "followers": 24694,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Salary negotiation",
+      "Salary Transparency"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Chanel_Power.jpeg",
+    "gender": "Female",
+    "ageGroup": "30+",
+    "ethnicity": "Black",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "Founder of Mentor me collective First gen technologists, very big mentorship program, inspiring story",
+    "subCategory": [
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Salary negotiation",
+      "Salary Transparency"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 24694,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/powerc1/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://www.mentormecollective.org",
+    "hiddenGem": false
+  },
+  {
+    "id": "88",
+    "name": "Bill Yost",
+    "role": "Founder",
+    "avatar": "/src/data/profile_photos/Bill_Yost.jpeg",
+    "tagline": "Leads people analytics at Netflix and is celebrated for injecting humor into LinkedIn—from memes to witty industry commentary—and cultivates engagement even through accepting random connection requests.",
+    "followers": 20246,
+    "platform": "LinkedIn",
+    "topics": [
+      "Data Science",
+      "AI/ML",
+      "UI/UX",
+      "Tech Leadership",
+      "Personal Branding",
+      "Unhinged career hacks"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Bill_Yost.jpeg",
+    "gender": "Male",
+    "ageGroup": "30+",
+    "ethnicity": "White",
+    "careerStage": "Senior",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Humor"
+    ],
+    "knownFor": "Leads people analytics at Netflix and is celebrated for injecting humor into LinkedIn—from memes to witty industry commentary—and cultivates engagement even through accepting random connection requests.",
+    "subCategory": [
+      "Data Science",
+      "AI/ML",
+      "UI/UX",
+      "Tech Leadership",
+      "Personal Branding",
+      "Unhinged career hacks"
+    ],
+    "targetAudience": [
+      "Early career",
+      "Women",
+      "Men",
+      "Mid career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 20246,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/billyost/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://www.billyost.net",
+    "hiddenGem": true
+  },
+  {
+    "id": "89",
+    "name": "Wilman Chan",
+    "role": "Created a Linkedin Growth Group , funny takes , grew on linkedin in 6 months",
+    "avatar": "/src/data/profile_photos/Wilman_Chan.jpeg",
+    "tagline": "Creating a Linkedin Growth Group , funny takes , grew on linkedin in 6 months",
+    "followers": 15763,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Wilman_Chan.jpeg",
+    "gender": "Male",
+    "ageGroup": "18-21",
+    "ethnicity": "Asian",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Storytelling",
+      "Humor"
+    ],
+    "knownFor": "Creating a Linkedin Growth Group , funny takes , grew on linkedin in 6 months",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Digital Marketing",
+      "Content strategy",
+      "Personal Branding",
+      "Wellness, Productivity",
+      "early stage startup",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 15763,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/wilmanchan/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://substack.com/@wilmanchan",
+    "hiddenGem": false
+  },
+  {
+    "id": "90",
+    "name": "Ly Na Nguyen",
+    "role": "",
+    "avatar": "/src/data/profile_photos/Ly_Na_Nguyen.jpeg",
+    "tagline": "Cybersecurity content, leader of columbia dev fest , career tips for college students",
+    "followers": 13650,
+    "platform": "LinkedIn",
+    "topics": [
+      "AI/ML",
+      "Tech Leadership",
+      "Cybersecurity",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "early stage startup"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Ly_Na_Nguyen.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Asian",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "",
+    "subCategory": [
+      "AI/ML",
+      "Tech Leadership",
+      "Cybersecurity",
+      "Personal Branding",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "early stage startup"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Founders",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 13650,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/lynang15/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://topmate.io/ly_na_nguyen",
+    "hiddenGem": false
+  },
+  {
+    "id": "91",
+    "name": "Justin Harper",
+    "role": "CS Student POV of recruiting in tech AI and machine learning resources for underrepresented communites",
+    "avatar": "/src/data/profile_photos/Justin_Harper.jpeg",
+    "tagline": "CS Student POV of recruiting in tech AI and machine learning resources for underrepresented communites",
+    "followers": 12996,
+    "platform": "LinkedIn",
+    "topics": [
+      "Data Science AI/ML Software Engineering Tech Leadership DEI Mental health"
+    ],
+    "style": "Educational Humor",
+    "profilePhoto": "/src/data/profile_photos/Justin_Harper.jpeg",
+    "gender": "Male",
+    "ageGroup": "18-21",
+    "ethnicity": "Black",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational Humor"
+    ],
+    "knownFor": "CS Student POV of recruiting in tech AI and machine learning resources for underrepresented communites",
+    "subCategory": [
+      "Data Science AI/ML Software Engineering Tech Leadership DEI Mental health"
+    ],
+    "targetAudience": [
+      "College students Women Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 12996,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/justinhtech/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://topmate.io/justin_harper",
+    "hiddenGem": false
+  },
+  {
+    "id": "92",
+    "name": "Nathan Lupstein",
+    "role": "Helping people get careers at amazon , first gen pov, recruiting hot takes from a talent aquisition pov",
+    "avatar": "/src/data/profile_photos/Nathan_Lupstein.jpeg",
+    "tagline": "Helping people get careers at amazon , first gen pov, recruiting hot takes from a talent aquisition pov",
+    "followers": 12642,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Nathan_Lupstein.jpeg",
+    "gender": "Male",
+    "ageGroup": "26-30",
+    "ethnicity": "White",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips"
+    ],
+    "knownFor": "Helping people get careers at amazon , first gen pov, recruiting hot takes from a talent aquisition pov",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 12642,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/nathan-lupstein-44599998/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": true
+  },
+  {
+    "id": "93",
+    "name": "Isabella Mandis",
+    "role": "Founding girls into VC",
+    "avatar": "/src/data/profile_photos/Isabella_Mandis.jpeg",
+    "tagline": "Founding girls into VC",
+    "followers": 11456,
+    "platform": "LinkedIn",
+    "topics": [
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Public speaking",
+      "thought leadership"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Isabella_Mandis.jpeg",
+    "gender": "Female",
+    "ageGroup": "18-21",
+    "ethnicity": "White",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "Founding girls into VC",
+    "subCategory": [
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Public speaking",
+      "thought leadership"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Executives",
+      "Founders",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 11456,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/isabellamandis",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://www.girlsintovc.com/",
+    "hiddenGem": false
+  },
+  {
+    "id": "94",
+    "name": "Amy Ru",
+    "role": "Product manager, coach at Leland, known for her direct, no-nonsense approach to guiding through product manager interview rounds.",
+    "avatar": "/src/data/profile_photos/Amy_Ru.jpeg",
+    "tagline": "Product manager, coach at Leland, known for her direct, no-nonsense approach to guiding through product manager interview rounds.",
+    "followers": 9487,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "AI/ML",
+      "Personal Branding",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Amy_Ru.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Asian",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips"
+    ],
+    "knownFor": "Product manager, coach at Leland, known for her direct, no-nonsense approach to guiding through product manager interview rounds.",
+    "subCategory": [
+      "Product Management",
+      "AI/ML",
+      "Personal Branding",
+      "Unhinged career hacks",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 9487,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/amyru/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://www.amyeru.com",
+    "hiddenGem": true
+  },
+  {
+    "id": "95",
+    "name": "Spencer Belsky",
+    "role": "Author",
+    "avatar": "/src/data/profile_photos/Spencer_Belsky.jpeg",
+    "tagline": "Product professional at Meta and avid snowboarder—merges high performance in both work and sport",
+    "followers": 6711,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Spencer_Belsky.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "White",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Product professional at Meta and avid snowboarder—merges high performance in both work and sport",
+    "subCategory": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "Venture Captial",
+      "Personal Branding",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Career changers",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 6711,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/spencer-belsky/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://www.leanaireport.com",
+    "hiddenGem": true
+  },
+  {
+    "id": "96",
+    "name": "Temitope Olowofeda",
+    "role": "Storytelling on linkedin , internship tips , opportunity posts , mental health",
+    "avatar": "/src/data/profile_photos/Temitope_Olowofeda.jpeg",
+    "tagline": "Storytelling on linkedin , internship tips , opportunity posts , mental health",
+    "followers": 6262,
+    "platform": "LinkedIn",
+    "topics": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Temitope_Olowofeda.jpeg",
+    "gender": "Female",
+    "ageGroup": "26-30",
+    "ethnicity": "Black",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": true,
+    "contentStyle": [
+      "Educational",
+      "Tactical Tips",
+      "Storytelling"
+    ],
+    "knownFor": "Storytelling on linkedin , internship tips , opportunity posts , mental health",
+    "subCategory": [
+      "Software Engineering",
+      "Tech Leadership",
+      "Personal Branding",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Career changers",
+      "Women",
+      "Men"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 6262,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/tolowofela/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "97",
+    "name": "Nasrin Z. Ali",
+    "role": "Fashion model and computer science , reposts opportunities for students",
+    "avatar": "/src/data/profile_photos/default.jpeg",
+    "tagline": "Fashion model and computer science , reposts opportunities for students",
+    "followers": 6201,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Fashion tech",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/default.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Student",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "Fashion model and computer science , reposts opportunities for students",
+    "subCategory": [
+      "Product Management",
+      "Software Engineering",
+      "Tech Leadership",
+      "Public speaking",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Fashion tech",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 6201,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/nasrin-z-ali-001220190/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://github.com/nasrina081",
+    "hiddenGem": true
+  },
+  {
+    "id": "98",
+    "name": "Jaiden Price",
+    "role": "",
+    "avatar": "/src/data/profile_photos/Jaiden_Price.jpeg",
+    "tagline": "",
+    "followers": 5781,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Jaiden_Price.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "White",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring",
+      "Tactical Tips"
+    ],
+    "knownFor": "Linkedin Top Voice, Public Speaker , leader in tech, helping women in tech ",
+    "subCategory": [
+      "Product Management",
+      "Tech Leadership",
+      "Venture Captial",
+      "Founders, startup advice",
+      "fundraising and pitching",
+      "Salary negotiation",
+      "Public speaking",
+      "thought leadership",
+      "Wellness, Productivity"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals",
+      "Women"
+    ],
+    "offers1on1": true,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5781,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/jaidenprice/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://www.linkedin.com/in/jaidenprice/opportunities/services/request-proposal/?servicePageVanityName=7682793358a325683b",
+    "hiddenGem": false
+  },
+  {
+    "id": "99",
+    "name": "Amaya Roberson",
+    "role": "Podcast host",
+    "avatar": "/src/data/profile_photos/Amaya_Roberson.jpeg",
+    "tagline": "People operations, and reposting opportunities ",
+    "followers": 5254,
+    "platform": "LinkedIn",
+    "topics": [
+      "Personal Branding",
+      "Salary negotiation",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "style": "Educational",
+    "profilePhoto": "/src/data/profile_photos/Amaya_Roberson.jpeg",
+    "gender": "Female",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Mid Career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Educational",
+      "Inspiring"
+    ],
+    "knownFor": "People operations and  reposting opportunities",
+    "subCategory": [
+      "Personal Branding",
+      "Salary negotiation",
+      "thought leadership",
+      "DEI",
+      "Wellness, Productivity",
+      "Mental health"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 5254,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/amaya-roberson/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "",
+    "hiddenGem": false
+  },
+  {
+    "id": "100",
+    "name": "Leon Kipkoech",
+    "role": "Going to many hackathons, researcher, international student experience, founder",
+    "avatar": "/src/data/profile_photos/Leon_Kipkoech.jpeg",
+    "tagline": "Going to many hackathons, researcher, international student experience, founder",
+    "followers": 3378,
+    "platform": "LinkedIn",
+    "topics": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "thought leadership",
+      "early stage startup"
+    ],
+    "style": "Inspiring",
+    "profilePhoto": "/src/data/profile_photos/Leon_Kipkoech.jpeg",
+    "gender": "Male",
+    "ageGroup": "22-25",
+    "ethnicity": "Black",
+    "careerStage": "Early career",
+    "hasRecruitingExperience": false,
+    "contentStyle": [
+      "Inspiring",
+      "Storytelling"
+    ],
+    "knownFor": "Going to many hackathons, researcher, international student experience, founder",
+    "subCategory": [
+      "Product Management",
+      "Data Science",
+      "AI/ML",
+      "Software Engineering",
+      "Tech Leadership",
+      "thought leadership",
+      "early stage startup"
+    ],
+    "targetAudience": [
+      "College students",
+      "Early career",
+      "Underepresented individuals"
+    ],
+    "offers1on1": false,
+    "platforms": [
+      "LinkedIn"
+    ],
+    "followers_detail": {
+      "LinkedIn": 3378,
+      "Instagram": 0,
+      "TikTok": 0
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/leonkoech/",
+    "instagramUrl": "",
+    "tiktokUrl": "",
+    "website": "https://leonkoech.com/",
+    "hiddenGem": true
+  }
+]
