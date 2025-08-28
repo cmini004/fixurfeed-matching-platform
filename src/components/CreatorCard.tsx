@@ -3,6 +3,7 @@ import { Button } from "./ui/button";
 import { Badge } from "./ui/badge";
 import { Users, Repeat } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
+import { creatorApi } from "../services/creatorApi";
 import React from "react";
 interface Creator {
   id: string;
@@ -32,7 +33,7 @@ export function CreatorCard({ creator, onSwap, showSwap = false }: CreatorCardPr
     <Card className="p-6 bg-card border border-border hover:shadow-lg hover:border-primary/50 transition-all">
       <div className="flex items-start space-x-4">
         <ImageWithFallback
-          src={creator.avatar}
+          src={creatorApi.getImageUrl(creator.avatar)}
           alt={creator.name}
           className="w-16 h-16 rounded-full object-cover flex-shrink-0"
         />

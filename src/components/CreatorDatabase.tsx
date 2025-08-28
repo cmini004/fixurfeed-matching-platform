@@ -22,9 +22,9 @@ export function CreatorDatabase() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // Load creators from API
+  // Load creators from secure API
   useEffect(() => {
-    const loadCreators = async () => {
+    async function loadCreators() {
       try {
         setLoading(true);
         setError(null);
@@ -36,8 +36,8 @@ export function CreatorDatabase() {
       } finally {
         setLoading(false);
       }
-    };
-
+    }
+    
     loadCreators();
   }, []);
 

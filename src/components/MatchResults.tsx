@@ -55,9 +55,9 @@ export function MatchResults({ quizResponses }: MatchResultsProps) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // Load matched creators using our algorithm
+  // Load matched creators using our secure API
   useEffect(() => {
-    const loadMatches = async () => {
+    async function loadMatches() {
       try {
         setLoading(true);
         setError(null);
@@ -69,8 +69,8 @@ export function MatchResults({ quizResponses }: MatchResultsProps) {
       } finally {
         setLoading(false);
       }
-    };
-
+    }
+    
     loadMatches();
   }, [quizResponses]);
 

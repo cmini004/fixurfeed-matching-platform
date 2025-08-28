@@ -15,7 +15,11 @@
       "Bash(curl:*)",
       "Bash(git add:*)",
       "Bash(git push:*)",
-      "Bash(git log:*)"
+      "Bash(git log:*)",
+      "Bash(open http://localhost:5173)",
+      "Bash(lsof:*)",
+      "Bash(kill:*)",
+      "Bash(sed:*)"
     ],
     "deny": [],
     "ask": []
