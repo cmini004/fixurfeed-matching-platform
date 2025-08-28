@@ -17,6 +17,7 @@ import {
   Award
 } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
+import { creatorApi } from "../services/creatorApi";
 
 interface Creator {
   id: string;
@@ -162,7 +163,7 @@ export function CreatorProfile({ creatorId, onBack }: CreatorProfileProps) {
             <Card className="p-6">
               <div className="text-center space-y-4">
                 <ImageWithFallback
-                  src={creator.avatar}
+                  src={creatorApi.getImageUrl(creator.avatar)}
                   alt={creator.name}
                   className="w-32 h-32 rounded-full mx-auto object-cover border-4 border-[var(--fixur-yellow)]"
                 />
