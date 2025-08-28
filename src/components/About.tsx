@@ -22,7 +22,7 @@ export function About({ onTakeQuiz }: AboutProps) {
           </p>
           <div className="flex justify-center mb-6">
             <img
-              src="/src/data/profile_photos/Coral_Miniel.jpeg"
+              src="https://fixurfeed-matching-platform-production.up.railway.app/api/images/Coral_Miniel.jpeg"
               alt="Coral Miniel headshot"
               width="160"
               height="160"
@@ -256,7 +256,7 @@ export function About({ onTakeQuiz }: AboutProps) {
               </p>
               
               <p className="font-semibold text-primary">
-                On <strong>Friday</strong>, I'll be dropping the <strong>full case analysis</strong>. 
+                On <strong>Monday</strong>, I'll be dropping the <strong>full case analysis</strong>. 
                 If you care about fixing career discovery, or if you just want a better feed, follow along. 
                 Let's make LinkedIn more valuable for the next generation of ambitious students.
               </p>
