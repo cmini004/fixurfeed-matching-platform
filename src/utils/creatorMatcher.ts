@@ -2,6 +2,7 @@ import { creatorApi, type Creator } from '../services/creatorApi';
 
 
 interface QuizResponse {
+  age: string;
   gender: string;
   ethnicity: string[];
   careerJourney: string[];
@@ -280,7 +281,7 @@ export async function matchCreators(userResponses: QuizResponse): Promise<Matche
     // Content preference alignment
     userResponses.contentPreference.forEach(content => {
       const contentMap: Record<string, string[]> = {
-        'Personal brand': ['personal branding', 'brand', 'branding', 'personal brand'],
+        'Personal brand': ['personal branding', 'brand', 'branding', 'personal brand', 'influence', 'creator economy'],
         'Getting an internship': ['internship', 'intern', 'recruiting', 'job search', 'interview'],
         'First gen': ['first gen', 'first generation', 'first-gen', 'underrepresented'],
         'Mental health': ['mental health', 'wellness', 'mindfulness', 'wellbeing'],
@@ -288,10 +289,24 @@ export async function matchCreators(userResponses: QuizResponse): Promise<Matche
         'Salary negotiation': ['salary', 'negotiation', 'compensation', 'pay', 'money', 'finance', 'benefits'],
         'Salary transparent': ['salary', 'compensation', 'pay', 'transparent', 'transparency'],
         'Straight to the point': ['tactical', 'concise', 'direct', 'straightforward'],
-        'Mental health focused': ['mental health', 'wellness', 'mindfulness', 'wellbeing', 'therapy']
+        'Humor & memes': ['humor', 'funny', 'memes', 'comedy', 'entertaining', 'relatable'],
+        'Aesthetics & design': ['aesthetic', 'design', 'visual', 'creative', 'art', 'beautiful', 'style'],
+        'Fashion tech': ['fashion', 'style', 'outfit', 'wardrobe', 'personal style', 'fashion tech', 'tech fashion']
       };
       
       const contentKeywords = contentMap[content] || [];
+      
+      // Special handling for personal brand and fashion tech
+      if (content === 'Personal brand' || content === 'Fashion tech') {
+        // Check for personal brand tag
+        if (creator.tags && creator.tags.some(tag => 
+            tag.toLowerCase().includes('personal brand') || 
+            tag.toLowerCase().includes('fashion') ||
+            tag.toLowerCase().includes('style'))) {
+          score += 15; // Higher score for exact tag match
+        }
+      }
+      
       if (contentKeywords.some(keyword => 
           creator.subCategory.some(cat => cat.toLowerCase().includes(keyword)) ||
           creator.knownFor.toLowerCase().includes(keyword) ||
@@ -331,8 +346,43 @@ export async function matchCreators(userResponses: QuizResponse): Promise<Matche
            creator.topics.some(topic => topic.toLowerCase().includes('recruiting'));
   };
   
+  // Filter creators by age preference if provided
+  let filteredCreators = creators;
+  if (userResponses.age) {
+    filteredCreators = creators.filter(creator => {
+      const userAge = userResponses.age;
+      
+      // For ages 18-25, include creators targeting younger audiences
+      if (['18', '19', '20', '21', '22', '23', '24', '25'].includes(userAge)) {
+        // Include creators who target younger audiences or are younger themselves
+        return creator.ageGroup === '18-25' || 
+               creator.ageGroup === '20s' || 
+               creator.targetAudience.some(audience => 
+                 audience.toLowerCase().includes('student') || 
+                 audience.toLowerCase().includes('young') ||
+                 audience.toLowerCase().includes('entry') ||
+                 audience.toLowerCase().includes('college') ||
+                 audience.toLowerCase().includes('university')
+               );
+      } else if (userAge === '26+') {
+        // Include creators for more experienced professionals
+        return creator.ageGroup === '30+' || 
+               creator.ageGroup === '26+' || 
+               creator.careerStage.toLowerCase().includes('senior') ||
+               creator.careerStage.toLowerCase().includes('mid') ||
+               creator.targetAudience.some(audience => 
+                 audience.toLowerCase().includes('professional') || 
+                 audience.toLowerCase().includes('senior') ||
+                 audience.toLowerCase().includes('experienced') ||
+                 audience.toLowerCase().includes('manager')
+               );
+      }
+      return true;
+    });
+  }
+  
   // Score all creators and return top matches with diversity requirements
-  const scoredCreators = creators.map(creator => ({
+  const scoredCreators = filteredCreators.map(creator => ({
     creator,
     score: calculateMatchScore(creator)
   }));

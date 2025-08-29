@@ -23,6 +23,7 @@ interface QuizQuestion {
 }
 
 interface QuizResponse {
+  age: string;
   gender: string;
   ethnicity: string[];
   careerJourney: string[];
@@ -39,6 +40,7 @@ interface QuizFlowProps {
 export function QuizFlow({ onComplete, onBack }: QuizFlowProps) {
   const [currentStep, setCurrentStep] = useState(0);
   const [responses, setResponses] = useState<QuizResponse>({
+    age: '',
     gender: '',
     ethnicity: [],
     careerJourney: [],
@@ -46,43 +48,20 @@ export function QuizFlow({ onComplete, onBack }: QuizFlowProps) {
     contentCare: [],
     contentPreference: []
   });
+  const [showIdentityQuestions, setShowIdentityQuestions] = useState(false);
 
-  const questions: QuizQuestion[] = [
+  // Build dynamic questions based on user selections
+  const baseQuestions: QuizQuestion[] = [
     {
-      id: 'gender',
-      title: 'Gender',
-      subtitle: '',
-      skipOption: true,
+      id: 'age',
+      title: "What's your age?",
+      subtitle: 'This helps us find creators who resonate with your stage in life',
       fields: [
         {
-          key: 'gender',
+          key: 'age',
           label: '',
           type: 'single' as const,
-          options: ['Man', 'Woman', 'Other']
-        }
-      ]
-    },
-    {
-      id: 'ethnicity',
-      title: 'Race / Ethnicity',
-      subtitle: 'Select all that apply',
-      skipOption: true,
-      fields: [
-        {
-          key: 'ethnicity',
-          label: '',
-          type: 'multiple' as const,
-          options: [
-            'Asian',
-            'Black / African American',
-            'Latino / Hispanic',
-            'White / Caucasian',
-            'Middle Eastern / North African',
-            'Native American / Indigenous',
-            'Pacific Islander',
-            'Mixed / Multiracial',
-            'Other'
-          ]
+          options: ['18', '19', '20', '21', '22', '23', '24', '25', '26+']
         }
       ]
     },
@@ -143,7 +122,7 @@ export function QuizFlow({ onComplete, onBack }: QuizFlowProps) {
             'Has first gen experience',
             'Someone whose company was acquired',
             'Someone with more experience (senior)',
-            'Doesn\'t matter'
+            "Doesn't matter"
           ]
         }
       ]
@@ -167,11 +146,62 @@ export function QuizFlow({ onComplete, onBack }: QuizFlowProps) {
             'Salary negotiation',
             'Salary transparent',
             'Straight to the point',
-            'Mental health focused'
+            'Humor & memes',
+            'Aesthetics & design',
+            'Fashion tech'
           ]
         }
       ]
     }
+  ];
+
+  // Add identity questions dynamically if user selected "Someone who looks like me"
+  const identityQuestions: QuizQuestion[] = showIdentityQuestions ? [
+    {
+      id: 'gender',
+      title: 'Because you selected "Someone who looks like me"',
+      subtitle: "We'd like to know a bit more about you to find the best matches",
+      skipOption: true,
+      fields: [
+        {
+          key: 'gender',
+          label: 'Gender',
+          type: 'single' as const,
+          options: ['Man', 'Woman', 'Other']
+        }
+      ]
+    },
+    {
+      id: 'ethnicity',
+      title: 'Race / Ethnicity',
+      subtitle: 'Select all that apply (optional)',
+      skipOption: true,
+      fields: [
+        {
+          key: 'ethnicity',
+          label: '',
+          type: 'multiple' as const,
+          options: [
+            'Asian',
+            'Black / African American',
+            'Latino / Hispanic',
+            'White / Caucasian',
+            'Middle Eastern / North African',
+            'Native American / Indigenous',
+            'Pacific Islander',
+            'Mixed / Multiracial',
+            'Other'
+          ]
+        }
+      ]
+    }
+  ] : [];
+
+  // Combine questions in the right order
+  const questions = [
+    ...baseQuestions.slice(0, 4), // age, journey, goals, contentCare
+    ...identityQuestions,
+    ...baseQuestions.slice(4) // content preferences
   ];
 
   const currentQuestion = questions[currentStep];
@@ -179,6 +209,13 @@ export function QuizFlow({ onComplete, onBack }: QuizFlowProps) {
   const progress = ((currentStep + 1) / totalSteps) * 100;
 
   const handleOptionSelect = (key: string, value: string, type: 'single' | 'multiple') => {
+    // Check if user selected "Someone who looks like me"
+    if (key === 'contentCare' && value === 'Someone who looks like me') {
+      setShowIdentityQuestions(true);
+    } else if (key === 'contentCare' && value === "Doesn't matter") {
+      setShowIdentityQuestions(false);
+    }
+    
     if (type === 'single') {
       setResponses((prev: QuizResponse) => ({
         ...prev,
