@@ -10,9 +10,15 @@ export default defineConfig({
         '@': path.resolve(__dirname, './src')
       }
     },
+    optimizeDeps: {
+      include: ['@vercel/analytics/react']
+    },
     build: {
       target: 'esnext',
-      outDir: 'build'
+      outDir: 'build',
+      rollupOptions: {
+        external: [],
+      }
     },
     server: {
       port: 3000,
