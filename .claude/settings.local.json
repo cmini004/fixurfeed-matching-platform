@@ -19,7 +19,9 @@
       "Bash(open http://localhost:5173)",
       "Bash(lsof:*)",
       "Bash(kill:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(npm start)",
+      "Bash(ps:*)"
     ],
     "deny": [],
     "ask": []

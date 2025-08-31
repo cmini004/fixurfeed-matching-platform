@@ -1,6 +1,5 @@
 import React from 'react';
 import { useState } from "react";
-import { Analytics } from "@vercel/analytics/react";
 import { Navigation } from "./components/Navigation";
 import { LandingPage } from "./components/LandingPage";
 import { QuizFlow } from "./components/QuizFlow";
@@ -87,7 +86,6 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-background text-foreground dark">
-      <Analytics />
       {currentPage !== 'quiz' && (
         <Navigation 
           currentPage={currentPage}
